@@ -18,18 +18,22 @@ def convert(fname, pages=None):
 
     infile = file(fname, 'rb')
     for pageNumber, page in enumerate(PDFPage.get_pages(infile, pagenums)):
-        print "parsing through pages... %s " % pageNumber
+    # for page in enumerate(PDFPage.create_pages(infile)):
+        # print "parsing through pages... %s " % pageNumber
         interpreter.process_page(page)
+
+        text = output.getvalue()
+        reg = 'Number of Positions'
+        positions = re.findall(reg, text)                 # Our data are contained in matches[0]
+        if positions:
+            # print(positions)
+            print (text.replace("\n",";").replace(";;","|"))
+            exit()
+            # extract_personal(text)
 
     infile.close()
     converter.close()
-    text = output.getvalue()
     output.close
-    reg = 'Number of Positions'
-    positions = re.findall(reg, text)                 # Our data are contained in matches[0]
-    if positions:
-        # print(positions)
-        extract_personal(text)
 
     # return text
 
@@ -37,8 +41,21 @@ def extract_personal(text):
     # print "Text::::: +> " + text
     # next((i for i, c in enumerate(text.split()) if c != ' '), len(text))
     for word in text.split("\n"):
-        print "-" + word.strip() + "-"
-        # for Grade, rate, position, # of positions (last yr/ this year)
+        if (word.strip()).lower() == 'personal service details':
+            pass
+        elif (word.strip()).lower() == 'grade':
+            pass
+        elif (word.strip()).lower() == 'rate':
+            pass
+        elif (word.strip()).lower() == 'position':
+            pass
+        elif word.strip() == '':
+            print "Empty word <"+word+">"
+
+        else:
+            print "-" + word.strip() + "-"
+
+# for Grade, rate, position, # of positions (last yr/ this year)
 
 
 
@@ -114,12 +131,12 @@ def pdf_to_csv(filename, separator, threshold):
         outfp.write("START PAGE %d\n" % i)
         if page is not None:
             interpreter.process_page(page)
-            # reg = 'Number of Positions'
-            # text = page.getvalue()
-            # positions = re.findall(reg, text)                 # Our data are contained in matches[0]
-            # if positions:
-            #     print(positions)
-            #     extract_personal(text)
+            reg = 'Number of Positions'
+            text = outfp.getvalue()
+            positions = re.findall(reg, text)                 # Our data are contained in matches[0]
+            if positions:
+                print(positions)
+                extract_personal(text)
     outfp.write("END PAGE %d\n" % i)
 
 
@@ -135,7 +152,8 @@ def main():
     src = "./budgets/2016-2017_BUDGET.pdf"
     # pdftxt = convert(src, [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17])
     # pdftxt = convert(src, [125,126,127,128])
-    pdftxt = convert(src, [128])
+    # pdftxt = convert(src, [100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124])
+    pdftxt = convert(src, [100,101,102,103,104,125])
     # print(pdftxt)
     # toc(src)
 
@@ -149,3 +167,10 @@ if __name__ == '__main__':
     main()
 
 
+
+# main:
+#     for each page in pdf
+#         obtain text
+#         render desired outputs:
+#             - HC to department
+#             - revenue / expenses per dept
