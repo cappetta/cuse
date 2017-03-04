@@ -1,0 +1,14 @@
+# vagrant.yaml
+# @author: cappetta
+---
+  - name:       ubuntu-server
+    box:        ubuntu/trusty64
+    forwards:
+      - port1:
+        host:   3306
+        guest:  3306
+        id:     mysql
+    ram:        "2048"
+    vram:       "30"
+    cpu:        "2"
+    gui:        false

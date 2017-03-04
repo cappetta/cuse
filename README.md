@@ -1,6 +1,10 @@
 # Project Overview
 
-Fueled by an enormous appetite to influence positive change within the community that we "live in" has evolved into a conceptual project. T
+This project is fueled by an enormous desire to influence positive change in the environment around me, a professional requirement to continuously master the processes & tools of my trade, & the desire to create products which differentiate between factual and imaginary results.
+
+The primary goal of the program is to leverage data to influence, recommend, & quantify the quality of government-run services within the City of Syracuse & the County of Onondaga.
+
+Leverage the data, perform some analysis, help identify waste commit a few contributions, or send an email w/ your ideas to syr_git@automatedcybersolutions.com.  
 
 
 # Mission Statement:
@@ -26,11 +30,16 @@ To establish an open-source business intelligence community which analyzes publi
     * 2014-2015: http://www.syracuse.ny.us/uploadedFiles/Departments/Budget/Content/Budget_Documents/2014-15%20Budget.pdf
     * 2013-2014: http://www.syracuse.ny.us/uploadedFiles/Departments/Budget/Content/Budget_Documents/2013-14%20Budget.pdf
     * 2012-2013: http://www.syracuse.ny.us/uploadedFiles/Departments/Budget/Content/Budget_Documents/Final%20%202012-13%20Budget.pdf
-
+    
+* Key Parts of the Budget docs converted to Google Spreadsheets:
+    * 2016-2017: https://docs.google.com/spreadsheets/d/1Br22D6521fEikwa_Zuh37Vu2_K_q9BzhCofVB2mR-64/edit#gid=0
+    * 2015-2016 (in progress): https://docs.google.com/spreadsheets/d/1qMu6kPGAAmYHOBLiuREiYVk5AKX9AyI3n4WiBIEVHYg/edit#gid=0
+    * 2014-2015: 
+    * 2013-2014: https://docs.google.com/spreadsheets/d/1gN_WtuEIbvaOeWW_xyzbsA2dDlBNXdvFcsdQcVArrU0/edit#gid=0 
+    * 2012-2013: 
+  
 * Financial Analysis: 
-    * https://www.osc.state.ny.us/localgov/pubs/fiscalprofiles/syracuse.pdf 
-    
-    
+    * https://www.osc.state.ny.us/localgov/pubs/fiscalprofiles/syracuse.pdf     
      
 * Community Driven-Research:
     * Snow Removal Problem & Quality Improvement recommendations: http://faculty.maxwell.syr.edu/jyinger/classes/PAI735/studentpapers/2014/Hacker_Shepard_Shifley.pdf
@@ -43,8 +52,6 @@ To establish an open-source business intelligence community which analyzes publi
 * Future State Plans: 
     * 2040: http://www.syrgov.net/uploadedFiles/Comp%20Plan%20amended%202013-08-14.pdf
 
-
-
 ## Automation Projects
 Building software automation to conquer repetitive tasks which speed up our ability to delivery enormous value add 
 
@@ -52,14 +59,8 @@ Building software automation to conquer repetitive tasks which speed up our abil
     * Continous Integration
     * 
 
-
-
-
 # Reference Material:
     
     * https://511ny.org/my511/register
         API Key: 
     * http://www.mckinsey.com/industries/public-sector/our-insights/government-by-design-four-principles-for-a-better-public-sector
-
-
-# 
