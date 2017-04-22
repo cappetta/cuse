@@ -1,16 +1,20 @@
 # Project Overview
 
-This project is fueled by an enormous desire to influence positive change in the environment around me, a professional requirement to continuously master the processes & tools of my trade, & the desire to create products which differentiate between factual and imaginary results.
+This project is fueled by an enormous desire to leverage technical public opinion & expertise to influence a enormously positive impact to the evolution of the OpenData Initiative within our local government. 
+This repository serves as the first public repository to publish & share private industry knowledge 
 
-The primary goal of the program is to leverage data to influence, recommend, & quantify the quality of government-run services within the City of Syracuse & the County of Onondaga.
+actively suggest/prompte/recomment the centralization & where possible the format of specific metrics which can be used by the Open Data Initiative City of Syracuse.
+ 
+The primary goal(s) of this repository is to:
+* provide direct objective references to historical artifact such as existing opendata, budget transcriptions, &   program is to leverage data to influence, recommend, & quantify the quality of government-run services within the City of Syracuse & the County of Onondaga.
 
-Leverage the data, perform some analysis, help identify waste commit a few contributions, or send an email w/ your ideas to syr_git@automatedcybersolutions.com.  
+Leverage the data, perform some analysis, help identify waste commit a few contributions, or send an email w/ your ideas to cappetta@automatedcybersolutions.com.  
 
 
 # Mission Statement:
-* Create transparent insight into the measurable successes & opportunities of governmental departments
-* Influence the ability to adjust policies quickly, 
-
+* Use Data to create transparent insight into the measurable successes & opportunities of governmental departments
+* User Data to Identify Improvement opportunities.
+* Use Data to Influence the rapid adjustment of restrictrive policies which prevent prosperity
 # Goal:
 To establish an open-source business intelligence community which analyzes public data and creates analytics which identify opportunities of concern or rapid advancement within our local economy
 
