@@ -1,0 +1,10 @@
+# docker-compose.yml
+db:
+  image: "mysql:latest"
+  ports:
+    - 3306:3306
+  environment:
+    MYSQL_ROOT_PASSWORD: Th3H4rD3sTP455
+    MYSQL_DATABASE: csv
+#    MYSQL_USER: user
+#    MYSQL_PASSWORD: pass
