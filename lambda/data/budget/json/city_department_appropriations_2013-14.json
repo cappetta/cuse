@@ -1,0 +1,466 @@
+[
+  {
+    "Department": "POLICE",
+    "Sub-Department": "GENERAL SERVICES BUREAU",
+    "Sub- Divisions": "-",
+    "2011/2012": "$7,890,447",
+    "2012/2013": "$8,036,791",
+    "2013/2014": "$8,388,068"
+  },
+  {
+    "Department": "POLICE",
+    "Sub-Department": "UNIFORM BUREAU",
+    "Sub- Divisions": "-",
+    "2011/2012": "$35,758,310",
+    "2012/2013": "$35,815,559",
+    "2013/2014": "$36,146,172"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "OFFICE OF THE MAYOR",
+    "Sub- Divisions": "-",
+    "2011/2012": "$513,363",
+    "2012/2013": "$509,837",
+    "2013/2014": "$549,218"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "OFFICE OF ADMINISTRATION",
+    "Sub- Divisions": "-",
+    "2011/2012": "$141,074",
+    "2012/2013": "$141,621",
+    "2013/2014": "$143,401"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "OFFICE OF PLANNING & SUSTAINABILITY",
+    "Sub- Divisions": "-",
+    "2011/2012": "$175,100",
+    "2012/2013": "$149,703",
+    "2013/2014": "$61,783"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "OFFICE OF MANAGEMENT AND BUDGET",
+    "Sub- Divisions": "BUDGET",
+    "2011/2012": "$334,131",
+    "2012/2013": "$354,729",
+    "2013/2014": "$361,784"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "OFFICE OF MANAGEMENT AND BUDGET",
+    "Sub- Divisions": "QUALITY CONTROL",
+    "2011/2012": "$124,613",
+    "2012/2013": "$0",
+    "2013/2014": "$0"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "OFFICE OF MANAGEMENT AND BUDGET",
+    "Sub- Divisions": "PURCHASE",
+    "2011/2012": "$162,218",
+    "2012/2013": "$114,594",
+    "2013/2014": "$111,148"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "OFFICE OF PERSONNEL AND LABOR RELATIONS",
+    "Sub- Divisions": "-",
+    "2011/2012": "$409,043",
+    "2012/2013": "$450,242",
+    "2013/2014": "$441,591"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "BUREAU OF RESEARCH",
+    "Sub- Divisions": "-",
+    "2011/2012": "$237,281",
+    "2012/2013": "$236,875",
+    "2013/2014": "$206,931"
+  },
+  {
+    "Department": "EXECUTIVE",
+    "Sub-Department": "BUREAU OF INFORMATION SYSTEMS",
+    "Sub- Divisions": "-",
+    "2011/2012": "$741,059",
+    "2012/2013": "$975,924",
+    "2013/2014": "$1,139,763"
+  },
+  {
+    "Department": "FINANCE",
+    "Sub-Department": "BUREAU OF THE TREASURY",
+    "Sub- Divisions": "-",
+    "2011/2012": "$589,020",
+    "2012/2013": "$617,706",
+    "2013/2014": "$748,584"
+  },
+  {
+    "Department": "FINANCE",
+    "Sub-Department": "BUREAU OF ACCOUNTS",
+    "Sub- Divisions": "-",
+    "2011/2012": "$611,014",
+    "2012/2013": "$644,487",
+    "2013/2014": "$671,882"
+  },
+  {
+    "Department": "FINANCE",
+    "Sub-Department": "PARKING VIOLATIONS BUREAU",
+    "Sub- Divisions": "-",
+    "2011/2012": "$660,810",
+    "2012/2013": "$659,851",
+    "2013/2014": "$929,821"
+  },
+  {
+    "Department": "NEIGHBORHOOD & BUSINESS DEVELOPMENT",
+    "Sub-Department": "NEIGHBORHOOD & BUSINESS DEVELOPMENT",
+    "Sub- Divisions": "-",
+    "2011/2012": "$265,644",
+    "2012/2013": "$292,749",
+    "2013/2014": "$343,584"
+  },
+  {
+    "Department": "NEIGHBORHOOD & BUSINESS DEVELOPMENT",
+    "Sub-Department": "DIVISION OF CODE ENFORCEMENT",
+    "Sub- Divisions": "-",
+    "2011/2012": "$3,844,981",
+    "2012/2013": "$4,226,695",
+    "2013/2014": "$4,042,994"
+  },
+  {
+    "Department": "NEIGHBORHOOD & BUSINESS DEVELOPMENT",
+    "Sub-Department": "DIV. OF CONTRACT COMPLIANCE & MINORITY AFFAIRS*",
+    "Sub- Divisions": "-",
+    "2011/2012": "$0",
+    "2012/2013": "$65,591",
+    "2013/2014": "$71,515"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "MAIN OFFICE",
+    "Sub- Divisions": "-",
+    "2011/2012": "$1,788,375",
+    "2012/2013": "$1,834,779",
+    "2013/2014": "$1,597,547"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "DIVISION OF INFORMATION AND SERVICE REQUESTS",
+    "Sub- Divisions": "-",
+    "2011/2012": "$744,895",
+    "2012/2013": "$723,605",
+    "2013/2014": "$724,587"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "DIVISION OF BUILDING SERVICES",
+    "Sub- Divisions": "-",
+    "2011/2012": "$3,396,232",
+    "2012/2013": "$3,573,889",
+    "2013/2014": "$3,719,687"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "DIVISION OF STREET REPAIR",
+    "Sub- Divisions": "-",
+    "2011/2012": "$1,088,462",
+    "2012/2013": "$977,961",
+    "2013/2014": "$1,098,702"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "DIVISION OF MOTOR EQUIPMENT MAINTENANCE",
+    "Sub- Divisions": "-",
+    "2011/2012": "$3,527,303",
+    "2012/2013": "$3,339,258",
+    "2013/2014": "$3,480,715"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "DIVISION OF SNOW AND ICE CONTROL",
+    "Sub- Divisions": "-",
+    "2011/2012": "$3,046,192",
+    "2012/2013": "$3,740,136",
+    "2013/2014": "$3,894,887"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "DIVISION OF WASTE COLLECTION, RECYCLING AND DISPOSAL",
+    "Sub- Divisions": "-",
+    "2011/2012": "$5,846,556",
+    "2012/2013": "$5,739,695",
+    "2013/2014": "$6,263,630"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "DIVISION OF STREET CLEANING",
+    "Sub- Divisions": "-",
+    "2011/2012": "$889,759",
+    "2012/2013": "$905,675",
+    "2013/2014": "$968,543"
+  },
+  {
+    "Department": "PUBLIC WORKS",
+    "Sub-Department": "DIVISION OF TRANSPORTATION",
+    "Sub- Divisions": "-",
+    "2011/2012": "$8,792,683",
+    "2012/2013": "$9,121,750",
+    "2013/2014": "$8,999,057"
+  },
+  {
+    "Department": "FIRE",
+    "Sub-Department": "MAIN FIRE",
+    "Sub- Divisions": "-",
+    "2011/2012": "$28,821,340",
+    "2012/2013": "$27,822,324",
+    "2013/2014": "$29,632,259"
+  },
+  {
+    "Department": "FIRE",
+    "Sub-Department": "FIRE PREVENTION BUREAU",
+    "Sub- Divisions": "-",
+    "2011/2012": "$663,618",
+    "2012/2013": "$796,130",
+    "2013/2014": "$1,010,642"
+  },
+  {
+    "Department": "FIRE",
+    "Sub-Department": "AIRPORT CRASH RESCUE",
+    "Sub- Divisions": "-",
+    "2011/2012": "$282,681",
+    "2012/2013": "$113,826",
+    "2013/2014": "$75,000"
+  },
+  {
+    "Department": "FIRE",
+    "Sub-Department": "FIRE EMS",
+    "Sub- Divisions": "-",
+    "2011/2012": "$27,700",
+    "2012/2013": "$0",
+    "2013/2014": "$0"
+  },
+  {
+    "Department": "PARKS, RECREATION & YOUTH PROGRAMS",
+    "Sub-Department": "ADMINISTRATION",
+    "Sub- Divisions": "-",
+    "2011/2012": "$445,827",
+    "2012/2013": "$428,153",
+    "2013/2014": "$599,677"
+  },
+  {
+    "Department": "PARKS, RECREATION & YOUTH PROGRAMS",
+    "Sub-Department": "DIVISION OF PARKS",
+    "Sub- Divisions": "-",
+    "2011/2012": "$2,998,190",
+    "2012/2013": "$3,278,429",
+    "2013/2014": "$3,625,256"
+  },
+  {
+    "Department": "PARKS, RECREATION & YOUTH PROGRAMS",
+    "Sub-Department": "DIVISION OF RECREATION",
+    "Sub- Divisions": "-",
+    "2011/2012": "$3,258,928",
+    "2012/2013": "$3,240,441",
+    "2013/2014": "$3,558,886"
+  },
+  {
+    "Department": "PARKS, RECREATION & YOUTH PROGRAMS",
+    "Sub-Department": "DOG CONTROL DIVISION",
+    "Sub- Divisions": "-",
+    "2011/2012": "$429,576",
+    "2012/2013": "$432,478",
+    "2013/2014": "$446,382"
+  },
+  {
+    "Department": "GENERAL FUND DEBT SERVICE",
+    "Sub-Department": "SERIAL BONDS - PRINCIPAL",
+    "Sub- Divisions": "-",
+    "2011/2012": "$13,538,460",
+    "2012/2013": "$13,991,685",
+    "2013/2014": "$13,512,159"
+  },
+  {
+    "Department": "GENERAL FUND DEBT SERVICE",
+    "Sub-Department": "SERIAL BONDS - INTEREST",
+    "Sub- Divisions": "-",
+    "2011/2012": "$4,470,348",
+    "2012/2013": "$4,163,858",
+    "2013/2014": "$3,984,116"
+  },
+  {
+    "Department": "GENERAL FUND DEBT SERVICE",
+    "Sub-Department": "BOND ANTICIPATION NOTES - PRINCIPAL",
+    "Sub- Divisions": "-",
+    "2011/2012": "$0",
+    "2012/2013": "$0",
+    "2013/2014": "$0"
+  },
+  {
+    "Department": "GENERAL FUND DEBT SERVICE",
+    "Sub-Department": "BOND ANTICIPATION NOTES - INTEREST",
+    "Sub- Divisions": "-",
+    "2011/2012": "$0",
+    "2012/2013": "$0",
+    "2013/2014": "$0"
+  },
+  {
+    "Department": "GENERAL FUND DEBT SERVICE",
+    "Sub-Department": "LESS: USE OF INTEREST EARNED",
+    "Sub- Divisions": "-",
+    "2011/2012": "$0",
+    "2012/2013": "$0",
+    "2013/2014": "$0"
+  },
+  {
+    "Department": "GENERAL FUND DEBT SERVICE",
+    "Sub-Department": "LESS: RESERVE FOR BONDED DEBT",
+    "Sub- Divisions": "-",
+    "2011/2012": "($800,000)",
+    "2012/2013": "($800,000)",
+    "2013/2014": "($500,000)"
+  },
+  {
+    "Department": "AVIATION ENTERPRISE FUND",
+    "Sub-Department": "DEPARTMENT OF AVIATION",
+    "Sub- Divisions": "-",
+    "2011/2012": "$14,242,639",
+    "2012/2013": "$12,333,797",
+    "2013/2014": "$13,723,801"
+  },
+  {
+    "Department": "AVIATION ENTERPRISE FUND",
+    "Sub-Department": "SPECIAL OBJECTS OF EXPENSE",
+    "Sub- Divisions": "-",
+    "2011/2012": "$5,995,043",
+    "2012/2013": "$9,038,874",
+    "2013/2014": "$10,220,031"
+  },
+  {
+    "Department": "AVIATION ENTERPRISE FUND",
+    "Sub-Department": "SERIAL BONDS-PRINCIPAL",
+    "Sub- Divisions": "-",
+    "2011/2012": "$3,245,000",
+    "2012/2013": "$3,625,000",
+    "2013/2014": "$4,545,000"
+  },
+  {
+    "Department": "AVIATION ENTERPRISE FUND",
+    "Sub-Department": "SERIAL BONDS-INTEREST",
+    "Sub- Divisions": "-",
+    "2011/2012": "$543,617",
+    "2012/2013": "$3,205,385",
+    "2013/2014": "$2,272,762"
+  },
+  {
+    "Department": "AVIATION ENTERPRISE FUND",
+    "Sub-Department": "BOND ANTICIPATION NOTES-PRINCIPAL",
+    "Sub- Divisions": "-",
+    "2011/2012": "$1,247,500",
+    "2012/2013": "$840,000",
+    "2013/2014": "$1,090,000"
+  },
+  {
+    "Department": "AVIATION ENTERPRISE FUND",
+    "Sub-Department": "BOND ANTICIPATION NOTES-INTEREST",
+    "Sub- Divisions": "-",
+    "2011/2012": "$51,594",
+    "2012/2013": "$37,180",
+    "2013/2014": "$60,480"
+  },
+  {
+    "Department": "WATER FUND",
+    "Sub-Department": "DIVISION OF FINANCE",
+    "Sub- Divisions": "-",
+    "2011/2012": "$487,321",
+    "2012/2013": "$542,465",
+    "2013/2014": "$552,122"
+  },
+  {
+    "Department": "WATER FUND",
+    "Sub-Department": "DIVISION OF ENGINEERING",
+    "Sub- Divisions": "-",
+    "2011/2012": "$628,788",
+    "2012/2013": "$799,127",
+    "2013/2014": "$821,725"
+  },
+  {
+    "Department": "WATER FUND",
+    "Sub-Department": "WATER QUALITY MANAGEMENT SECTION",
+    "Sub- Divisions": "-",
+    "2011/2012": "$883,551",
+    "2012/2013": "$1,030,122",
+    "2013/2014": "$1,094,311"
+  },
+  {
+    "Department": "WATER FUND",
+    "Sub-Department": "SKANEATELES WATERSHED PROGRAM",
+    "Sub- Divisions": "-",
+    "2011/2012": "$659,431",
+    "2012/2013": "$644,654",
+    "2013/2014": "$659,391"
+  },
+  {
+    "Department": "WATER FUND",
+    "Sub-Department": "PLANT SECTION",
+    "Sub- Divisions": "-",
+    "2011/2012": "$6,020,285",
+    "2012/2013": "$6,476,941",
+    "2013/2014": "$7,030,462"
+  },
+  {
+    "Department": "WATER FUND",
+    "Sub-Department": "SPECIAL OBJECTS OF EXPENSE",
+    "Sub- Divisions": "-",
+    "2011/2012": "$10,951,857",
+    "2012/2013": "$12,280,801",
+    "2013/2014": "$12,884,677"
+  },
+  {
+    "Department": "WATER FUND DEBT SERVICE",
+    "Sub-Department": "SERIAL BONDS - PRINCIPAL",
+    "Sub- Divisions": "-",
+    "2011/2012": "$2,596,802",
+    "2012/2013": "$2,706,044",
+    "2013/2014": "$3,156,426"
+  },
+  {
+    "Department": "WATER FUND DEBT SERVICE",
+    "Sub-Department": "SERIAL BONDS - INTEREST",
+    "Sub- Divisions": "-",
+    "2011/2012": "$1,672,536",
+    "2012/2013": "$1,932,095",
+    "2013/2014": "$2,277,137"
+  },
+  {
+    "Department": "SEWER FUND",
+    "Sub-Department": "D.P.W. DIVISION OF SEWERS AND STREAMS",
+    "Sub- Divisions": "-",
+    "2011/2012": "$2,302,476",
+    "2012/2013": "$2,265,290",
+    "2013/2014": "$2,410,858"
+  },
+  {
+    "Department": "SEWER FUND",
+    "Sub-Department": "SPECIAL OBJECTS OF EXPENSE",
+    "Sub- Divisions": "-",
+    "2011/2012": "$3,244,156",
+    "2012/2013": "$3,478,400",
+    "2013/2014": "$3,471,873"
+  },
+  {
+    "Department": "SEWER FUND DEBT SERVICE",
+    "Sub-Department": "SERIAL BONDS - PRINCIPAL",
+    "Sub- Divisions": "-",
+    "2011/2012": "$571,812",
+    "2012/2013": "$526,836",
+    "2013/2014": "$548,711"
+  },
+  {
+    "Department": "SEWER FUND DEBT SERVICE",
+    "Sub-Department": "SERIAL BONDS - INTEREST",
+    "Sub- Divisions": "-",
+    "2011/2012": "$298,061",
+    "2012/2013": "$274,969",
+    "2013/2014": "$252,754"
+  }
+]

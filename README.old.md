@@ -1,6 +1,6 @@
 # Project Overview
 
-This project is fueled by an enormous desire to leverage technical public opinion & expertise to influence a enormously positive impact to the evolution of the OpenData Initiative within our local government. 
+This project is fueled by an enormous desire to leverage public knowledge & technical expertise in an open & collaborative manner.  The goal is to influence an enormously positive impact to the evolution of the OpenData Initiative within our local government. 
 This repository serves as the first public repository to publish & share private industry knowledge 
 
 actively suggest/prompte/recomment the centralization & where possible the format of specific metrics which can be used by the Open Data Initiative City of Syracuse.

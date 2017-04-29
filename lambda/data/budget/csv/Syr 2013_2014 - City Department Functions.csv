@@ -1,0 +1,906 @@
+Department,Sub-Department,Major Functions,% of Budget,Activity Indicators,2011/2012,2012/2013,2013/2014
+COMMON COUNCIL,-,Legislative,72%,Council Meetings (Regular),23,23,23
+COMMON COUNCIL,-,Legislative,72%,Council Meetings (Special),7,7,7
+COMMON COUNCIL,-,Legislative,72%,Agenda Study Sessions,46,46,46
+COMMON COUNCIL,-,Legislative,72%,Committee Meetings,41,45,45
+COMMON COUNCIL,-,Legislative,72%,Public Hearings,17,20,20
+COMMON COUNCIL,-,Legislative,72%,Ordinances Adopted,745,750,750
+COMMON COUNCIL,-,Legislative,72%,Resolutions Adopted,24,24,25
+COMMON COUNCIL,-,Legislative,72%,Local Laws Adopted,12,12,12
+COMMON COUNCIL,-,Legislative,72%,Ordinances or Local Laws Defeated,1,1,1
+COMMON COUNCIL,-,Administrative ,28%,Purchase Transactions,23,25,25
+COMMON COUNCIL,-,Administrative ,28%,Constituent Calls/Letters,5000,5000,5000
+COMMON COUNCIL,-,Administrative ,28%,Payrolls Processed,26,26,26
+CITIZEN REVIEW BOARD,-,Operations,70%,"Complaints Filed, Investigated and Reviewed; Panel Hearing",23,85,90
+CITIZEN REVIEW BOARD,-,Operations,70%,Public Board Meetings,6,12,12
+CITIZEN REVIEW BOARD,-,Board Support &Training,15%,Training for Board Members and Administrator/Staff,3,5,10
+CITIZEN REVIEW BOARD,-,Community Activities,10%,Community Outreach Events,0,5,5
+CITIZEN REVIEW BOARD,-,Community Activities,10%,Public Awareness Mailings/Literature,1,2,3
+CITIZEN REVIEW BOARD,-,Public Information,5%,Monthly Statistical Update Reports,1,12,12
+CITIZEN REVIEW BOARD,-,Public Information,5%,Annual/Quarterly Reports,0/0,1/ 3,1/ 3
+EXECUTIVE,Office of the Mayor,-,-,-,-,-,-
+EXECUTIVE,Office of Administration,-,-,-,-,-,-
+EXECUTIVE,Office of Planning & Sustainability,Sustainability Initiatives,10%,-,24,26,26
+EXECUTIVE,Office of Planning & Sustainability,Execution of Planning Projects,15%,-,14,15,15
+EXECUTIVE,Office of Planning & Sustainability,Development of City Plans,40%,-,7,7,5
+EXECUTIVE,Office of Planning & Sustainability,Assistance in Departmental Plan Development,35%,-,7,7,4
+EXECUTIVE,Office of Management & Budget- Division of Budget,Financial Management/Planning,77%,"City Department Budgets Analyzed, Prepared & Reviewed",47,47,47
+EXECUTIVE,Office of Management & Budget- Division of Budget,Financial Management/Planning,77%,Multi-Year Capital Improvement Program Prepared,1,1,1
+EXECUTIVE,Office of Management & Budget- Division of Budget,Financial Management/Planning,77%,Annual Allotment Schedule Prepared,1,1,1
+EXECUTIVE,Office of Management & Budget- Division of Budget,Financial Management/Planning,77%,Financial Impact Statements,23,24,23
+EXECUTIVE,Office of Management & Budget- Division of Budget,Financial Management/Planning,77%,Budget Amendments,5,11,6
+EXECUTIVE,Office of Management & Budget- Division of Budget,Financial Management/Planning,77%,Monthly Revenue and Expenditure Status Reports,12,12,12
+EXECUTIVE,Office of Management & Budget- Division of Budget,Financial Management/Planning,77%,Multi-Year Financial Plan,1,1,1
+EXECUTIVE,Office of Management & Budget- Division of Budget,Financial Management/Planning,77%,Mid-Year Budget Report,1,1,1
+EXECUTIVE,Office of Management & Budget- Division of Budget,Management and Productivity,14%,Analysis & Review of Budget Adjustments,752,850,800
+EXECUTIVE,Office of Management & Budget- Division of Budget,Capital Finance/Debt Planning,9%,Bonding and Fund Investment Notes Issued/Reviewed,3,3,4
+EXECUTIVE,Office of Management & Budget- Division of Budget,Capital Finance/Debt Planning,9%,Serial Bonds Issued,3,1,2
+EXECUTIVE,Office of Management & Budget- Division of Budget,Capital Finance/Debt Planning,9%,Projects Being Financed,25,25,28
+EXECUTIVE,Office of Management & Budget- Division of Budget,Capital Finance/Debt Planning,9%,Review and Analysis of Debt Service,33,33,33
+EXECUTIVE,Office of Management & Budget- Division of Quality Control,Research & Analysis ,50%,In-Depth Projects,0,0,0
+EXECUTIVE,Office of Management & Budget- Division of Quality Control,Targeted Departmental Review,40%,Divisions/Bureaus/Lines of Business Analyzed,0,0,0
+EXECUTIVE,Office of Management & Budget- Division of Quality Control,Constituent Service Monitoring,5%,Concerns/Complaints Investigated,0,0,0
+EXECUTIVE,Office of Management & Budget- Division of Quality Control,Public Presentations,5%,SyraStat Presentations for Public,0,0,0
+EXECUTIVE,Office of Management & Budget- Division of Purchase,Specification Preparation and Contract Award,100%,Contracts Awarded (Construction and Commodity),302,55,55
+EXECUTIVE,Office of Management & Budget- Division of Purchase,Specification Preparation and Contract Award,100%,RFP,25,25,25
+EXECUTIVE,Office of Management & Budget- Division of Purchase,Specification Preparation and Contract Award,100%,Agreements Awarded,46,35,35
+EXECUTIVE,Office of Management & Budget- Division of Purchase,Specification Preparation and Contract Award,100%,Insurance,N/A,N/A,N/A
+EXECUTIVE,Office of Personnel and Labor Relations,Labor Relations,32%,Contract Negotiations,9,9,9
+EXECUTIVE,Office of Personnel and Labor Relations,Labor Relations,32%,Grievances Reviewed,50,55,60
+EXECUTIVE,Office of Personnel and Labor Relations,Labor Relations,32%,Arbitration Hearings,9,10,12
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Residency Compliance Letters,20,20,3
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Affirmative Action Reports,1,1,1
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Diversity Awareness Training Sessions,70,72,50
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Civil Service Reviews,550,600,600
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Civil Service Forms Processed,1400,1400,1400
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Unemployment Insurance Claims,106,160,160
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Unemployment Insurance Hearings,9,10,10
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Benefit Consultations,1200,1000,1000
+EXECUTIVE,Office of Personnel and Labor Relations,Personnel Services,30%,Employment/Data Forms Processed,172,175,175
+EXECUTIVE,Office of Personnel and Labor Relations,Risk Management ,31%,Health Insurance Administration: --Health Contracts,3600,3600,3600
+EXECUTIVE,Office of Personnel and Labor Relations,Risk Management ,31%,-Dental Contracts,2020,2020,1800
+EXECUTIVE,Office of Personnel and Labor Relations,Risk Management ,31%,-Contract Changes Processed,2540,2540,5000
+EXECUTIVE,Office of Personnel and Labor Relations,Risk Management ,31%,-Phone Inquiries,5000,8000,6500
+EXECUTIVE,Office of Personnel and Labor Relations,Risk Management ,31%,--Contracts Administered,5,5,4
+EXECUTIVE,Office of Personnel and Labor Relations,Risk Management ,31%,Health Collections: --Amount Collected,1.200.000,650.000,1.500.000
+EXECUTIVE,Office of Personnel and Labor Relations,Risk Management ,31%,COBRA Administration: --Contracts Maintained,200,150,150
+EXECUTIVE,Office of Personnel and Labor Relations,Risk Management ,31%,Workers Compensation Administration: --Claims Processed,315,250,250
+EXECUTIVE,Office of Personnel and Labor Relations,Health & Safety Identification & Referral,7%,Employee Assistance Program Referrals,130,125,150
+EXECUTIVE,Bureau of Research,Grants ,60%,Number of Grant Applications/Revisions,43,40,40
+EXECUTIVE,Bureau of Research,Grants ,60%,Number of Grants Monitored/Managed,40,40,50
+EXECUTIVE,Bureau of Research,Grants ,60%,Number of Awards/Designations,3,5,6
+EXECUTIVE,Bureau of Research,Grants ,60%,Number of Legislative Member Items Processed,8,8,9
+EXECUTIVE,Bureau of Research,Grants ,60%,Technical Assistance Incidence,90,90,90
+EXECUTIVE,Bureau of Research,Special Projects,25%,Number of Special Projects Undertaken,20,22,22
+EXECUTIVE,Bureau of Research,Special Projects,25%,City Web Site Support,1100,1300,1300
+EXECUTIVE,Bureau of Research,Special Projects,25%,City Promotional Activities and Special Events,8,7,10
+EXECUTIVE,Bureau of Research,Special Projects,25%,"Advisory Committees, Boards and Commissions",20,15,18
+EXECUTIVE,Bureau of Research,Special Projects,25%,Files Management Grants,1,1,2
+EXECUTIVE,Bureau of Research,Special Projects,25%,Heritage Area Program and Administrative Activities,4,5,6
+EXECUTIVE,Bureau of Research,Special Projects,25%,"Daily E-Mail, Phone and Mail Responses to Constituents (per day)",12,15,15
+EXECUTIVE,Bureau of Research,Special Projects,25%,Special Research Projects,15,25,15
+EXECUTIVE,Bureau of Research,Records Management,15%,Records Inventoried (Cubic Feet),600,500,500
+EXECUTIVE,Bureau of Research,Records Management,15%,Departmental and City Court Records Stored (Cubic Feet),6800,6000,6000
+EXECUTIVE,Bureau of Research,Records Management,15%,Departmental and City Court Records Retrieval Requests,220,250,250
+EXECUTIVE,Bureau of Information Technology,Administration,12%,Number of People,.5,.5,1.5
+EXECUTIVE,Bureau of Information Technology,Programming,24%,Number of People,2,2,1.5
+EXECUTIVE,Bureau of Information Technology,Web-based Programming,6%,Number of People,.5,.5,.5
+EXECUTIVE,Bureau of Information Technology,Server and Networking,16%,Number of People,1.5,1.0,2.75
+EXECUTIVE,Bureau of Information Technology,PC & Network Support,24%,Number of People,1.5,1.5,2.5
+EXECUTIVE,Bureau of Information Technology,AS/400 Operations,12%,Number of People,1,1,1
+EXECUTIVE,Bureau of Information Technology,Clerical,6%,Number of People,.5,.5,.25
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Tax Bills Prepared (City Only),42300,42300,42300
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Tax Bills Distributed (City & County),84600,84600,84600
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Duplicate Tax Bills Prepared & Distributed(City and County),37000,37000,37000
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Delinquent Notices Mailed,12000,12000,12000
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Tax Searches,2100,2500,2500
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Tax Sale Certificates,8400,8600,10000
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Phone Calls,26000,26000,26000
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Person to Person Contacts,44000,44000,44000
+FINANCE,Bureau of Treasury,Tax Billing & Collection,25%,Late Payment Postcards,33000,33000,33000
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,Cases Opened,200,400,1400
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,Certificates of Ownership Ordered,200,350,1000
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,Fee Appraisals Hired,150,150,150
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,Deeds Taken,100,250,850
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,Properties Sold,100,250,850
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,Bankruptcy,700,700,1000
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,Delinquent Trust Notices,400,400,400
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,T-602 Overpayment Notices,1500,1500,1600
+FINANCE,Bureau of Treasury,Delinquent Tax Enforcement,31%,Pilot and Shelter Billing,45,50,60
+FINANCE,Bureau of Treasury,General Accounting,10%,Revenue Deposits Processed,11500,11500,11500
+FINANCE,Bureau of Treasury,General Accounting,10%,Tax Trust Fund Accounts Administered,125,125,125
+FINANCE,Bureau of Treasury,General Accounting,10%,New Sidewalk & Vault Notices,160,244,244
+FINANCE,Bureau of Treasury,Central Mailing and Messenger,28%,Bank & Mail Drops & Pickups,2300,2300,2300
+FINANCE,Bureau of Treasury,Central Mailing and Messenger,28%,Pieces of Mail Processed,40000,40000,40000
+FINANCE,Bureau of Treasury,Central Mailing and Messenger,28%,Stuffing of Envelopes,200000,200000,200000
+FINANCE,Bureau of Treasury,Central Mailing and Messenger,28%,Certified Mail @ $3.40,7000,7000,12000
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Applications Processed & Licenses Issued (Including Bingo licenses),1950,2500,2500
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Bingo Receipts,350,400,400
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Games of Chance Licenses,30,30,30
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Games of Chance Receipts,50,20,20
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Hearings,20,25,25
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Miscellaneous Deposits,150,250,250
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,"Deposit 2%, 3% & 5% from Bingo",91,100,100
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Bingo-Games/Chance Deposits,60,60,60
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Fee NYS Bingo-Games/Chance Receipts,65,65,65
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Weekly Bingo Inspections,450,450,430
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Phone Calls-Incoming/Outgoing,6000,6500,6500
+FINANCE,Bureau of Treasury,Licensing and Inspection,6%,Counter Contact,3000,3300,3300
+FINANCE,Bureau of Accounts,General Accounting System,34%,"Maintains General Ledger, Subsidiary Ledgers and Journals of the City and the computerized City Accounting System",N/A,N/A,N/A
+FINANCE,Bureau of Accounts,General Accounting System,34%,Bank Accounts Maintained,27,27,27
+FINANCE,Bureau of Accounts,General Accounting System,34%,Reconciliation of Warrants Issued,16000,16000,16000
+FINANCE,Bureau of Accounts,General Accounting System,34%,Maintain Accounts Associated with Preparation of Monthly/Year End Financial Statements (includes appropriations),2500,2500,2000
+FINANCE,Bureau of Accounts,General Accounting System,34%,Monitors and Maintains Appropriated Accounts,N/A,N/A,N/A
+FINANCE,Bureau of Accounts,Accounts Payable,16%,Purchase Orders Processed,17000,5536,5570
+FINANCE,Bureau of Accounts,Accounts Payable,16%,Purchase Orders Canceled/Adjusted,250,250,250
+FINANCE,Bureau of Accounts,Accounts Payable,16%,Claims Processed/Adjusted,19000,16250,15500
+FINANCE,Bureau of Accounts,Accounts Payable,16%,Checks Issued/Adjusted,16000,16000,12500
+FINANCE,Bureau of Accounts,Payroll Distribution,12%,Payroll Reconciliation,105500,105500,105500
+FINANCE,Bureau of Accounts,Payroll Distribution,12%,Payrolls Verified and Distributed,3330,3330,2500
+FINANCE,Bureau of Accounts,Payroll Distribution,12%,Payroll Checks Processed,"45,308","45,308",35000
+FINANCE,Bureau of Accounts,Payroll Distribution,12%,Supplemental Payroll Checks,170,160,260
+FINANCE,Bureau of Accounts,Payroll Distribution,12%,Direct Payroll Deposits,"76,232","76,232",75500
+FINANCE,Bureau of Accounts,Retirement & Payroll Deductions,11%,Garnishee of Wages Processed,3100,3100,2800
+FINANCE,Bureau of Accounts,Retirement & Payroll Deductions,11%,Support Payments Processed,13000,13000,13500
+FINANCE,Bureau of Accounts,Retirement & Payroll Deductions,11%,U.S. Savings Bonds Processed,500,500,0
+FINANCE,Bureau of Accounts,Retirement & Payroll Deductions,11%,Reconciliation of Monthly Retirement Holdings,1860,1860,1500
+FINANCE,Bureau of Accounts,Retirement & Payroll Deductions,11%,NYS Retirement Loans,225,225,450
+FINANCE,Bureau of Accounts,Retirement & Payroll Deductions,11%,College Savings Program,390,390,390
+FINANCE,Bureau of Accounts,Supervision & Administration,27%,Investment Transactions,N/A,N/A,N/A
+FINANCE,Bureau of Accounts,Supervision & Administration,27%,Administration & Issuance of Debt,N/A,N/A,N/A
+FINANCE,Bureau of Accounts,Supervision & Administration,27%,Capital Projects,N/A,N/A,N/A
+FINANCE,Bureau of Accounts,Supervision & Administration,27%,Maintaining Daily Operations,N/A,N/A,N/A
+FINANCE,Bureau of Accounts,Supervision & Administration,27%,Supervision & Administration of Staff,N/A,N/A,N/A
+FINANCE,Bureau of Accounts,Supervision & Administration,27%,State & Federal Grants,N/A,N/A,N/A
+FINANCE,Parking Violations Bureau,Collection & Processing,67%,Data Entry of Manually Issued Parking Tickets,"42,761",44000,44000
+FINANCE,Parking Violations Bureau,Collection & Processing,67%,Entry of Digital Tickets,"67,452",75000,80000
+FINANCE,Parking Violations Bureau,Collection & Processing,67%,Notices Sent,"147,024",150000,150000
+FINANCE,Parking Violations Bureau,Collection & Processing,67%,Number of Tickets sent to Collection Agency,"22,067",21000,21000
+FINANCE,Parking Violations Bureau,Collection & Processing,67%,Number of Default Judgments Filed,81,120,130
+FINANCE,Parking Violations Bureau,Adjudication of Tickets,33%,Number of Mail Hearings,6972,8000,8000
+FINANCE,Parking Violations Bureau,Adjudication of Tickets,33%,Number of Live Hearings,2102,2400,2400
+AUDIT,-,Administration,25%,"Operational Expenses Including Supplies, Office Machines, etc.",N/A,N/A,N/A
+AUDIT,-,Audit Projects,75%,"Financial and Performance Audits, Examinations and Reviews",9,8,8
+AUDIT,-,Audit Projects,75%,Special Projects,3,3,4
+CITY CLERK'S OFFICE,-,Legislative: Common Council Duties,45%,"Council Ordinances, Resolutions, and Local Laws Processed",781,785,785
+CITY CLERK'S OFFICE,-,Licensing,55%,Marriage Licenses Issued,"1,392","1,363","1,377"
+CITY CLERK'S OFFICE,-,Licensing,55%,Marriage Certificates Issued,"1,237","1,143",1190
+CITY CLERK'S OFFICE,-,Licensing,55%,Marriage Transcripts Issued,907,900,903
+CITY CLERK'S OFFICE,-,Licensing,55%,Dog Licenses Issued,"2,657","2,499","2,578"
+CITY CLERK'S OFFICE,-,Licensing,55%,Conservation Licenses Issued,142,136,139
+CITY CLERK'S OFFICE,-,Licensing,55%,Public Document Copies,44,26,35
+ASSESSMENT,-,Assessment and Re-assessment Project,55%,Permit Re-evaluated,2500,2800,2900
+ASSESSMENT,-,Assessment and Re-assessment Project,55%,Properties Assessed or Re-evaluated,6090,2500,2800
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Assessment Appeals Processed,560,500,480
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Deed Changes Recorded,4100,4250,4500
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Tax Map Revisions,90,85,100
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Assessment Record Searches,30000,30500,31500
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Aged Exemptions Processed,4200,4100,4200
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Veteran Exemptions Processed,180,190,190
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Basic STAR Exemptions Processed,8600,8500,8700
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Enhanced STAR Exemptions Processed,4200,4100,4300
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Disabilities Exemptions Processed,280,280,280
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Non for Profit Exemptions Processed,860,830,900
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Other Exemptions Processed,950,980,1000
+ASSESSMENT,-,Assessment Records and Exemption Processing,45%,Re-subdivision Reviews,50,60,60
+LAW,-,Litigation (including Labor Arbitration and Negotiations),40%,New Claims,387,375,375
+LAW,-,Legislation,14%,"Ordinances, General Ordinances, Local Laws and Resolutions",726,735,750
+LAW,-,Zoning and Planning,4%,Public Hearings Attended,38,38,38
+LAW,-,Zoning and Planning,4%,Litigation (Zoning/Zoning Appeals),0,5,5
+LAW,-,Workers’ Compensation,2%,New Cases Processed --City only,219,196,200
+LAW,-,Workers’ Compensation,2%,Hearings --City,167,130,130
+LAW,-,Contracts and Leases,8%,Prepared/Reviewed/Approved,300,300,300
+LAW,-,Tax Assessment and Certiorari,8%,Certiorari Proceedings: --Cases Filed,45,50,50
+LAW,-,Tax Assessment and Certiorari,8%,Certiorari Proceedings Settled,15,18,20
+LAW,-,Bankruptcy,8%,Cases filed,167,160,175
+LAW,-,Bankruptcy,8%,Discharged,162,165,180
+LAW,-,Real Property and Economic Development,12%,Loan Closings,20,30,30
+LAW,-,Real Property and Economic Development,12%,Syracuse Urban Renewal Agency Resolutions,75,80,80
+LAW,-,Real Property and Economic Development,12%,Sales of City-Owned Property; Deeds Prepared,74,80,85
+LAW,-,Real Property and Economic Development,12%,"Sales of SURA Property, Deeds, and Contracts Prepared",0,16,20
+LAW,-,Code Enforcement,12%,Total Housing/Code Enforcement Cases Filed,656,850,1000
+LAW,-,Code Enforcement,12%,-Final Disposition,677,750,850
+LAW,-,Code Enforcement,12%,Total Demolition Cases,5,20,20
+LAW,-,Code Enforcement,12%,Judgments Collected,"$203,285","$250,000","$265,000"
+LAW,-,Code Enforcement,12%,Licensing Cases/Hearings,3,5,5
+LAW,-,Code Enforcement,12%,Police Nuisance Abatement Hearings,7,7,7
+LAW,-,Code Enforcement,12%,Certificate of Use Cases,1,3,3
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,-,Business Development,50%,Predevelopment Meetings,36,39,40
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,-,Business Development,50%,Building Permit Construction Value,"$373,569,446","$318,573,638","$346,071,542"
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,-,Neighborhood Development,50%,Emergency Home Repairs (Units),98,108,100
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,-,Neighborhood Development,50%,Direct Homebuyer Assistance (Units),61,83,67
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,-,Neighborhood Development,50%,Rental Housing Units Rehabbed/New,77,104,122
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,-,Neighborhood Development,50%,Vacant Housing Rehabbed (Units),30,28,32
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,-,Neighborhood Development,50%,Relocation Assistance (Households),77,104,110
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,-,Neighborhood Development,50%,Public Services (Individuals Served),440,462,448
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,Contract Compliance: MBE/WBE Participation,85%,Contracts Monitored,95,128,100
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,Contract Compliance: MBE/WBE Participation,85%,Projects Monitored,76,109,80
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,Contract Compliance: MBE/WBE Participation,85%,Dollar Amount of Contracts and Projects,"$73,675,283","$272,891,165","$77,897,291"
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,Contract Compliance: MBE/WBE Participation,85%,Dollar Amount MBE/WBE,"$11,051,292","$40,666,406","$11,725,421"
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,Certifications,10%,Number of Applicants (Includes Certified),72,33,40
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,Certifications,10%,Total Number Certified,65,20,20
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,Certifications,10%,Total Number Certified to Date,136,150,170
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,MWBE Support Services,5%,MWBE Technical Assistance,N/A,25,35
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Contract Compliance and Minority Affairs,MWBE Support Services,5%,Outreach Meetings,20,20,20
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Permits Issued,20%,Residential 1 & 2 Family: New Construction,60,10,13
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Permits Issued,20%,Residential 1 & 2 Family: Remodel/Renovate,427,375,400
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Permits Issued,20%,3 Residential/Commercial: --New Construction,10,12,12
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Permits Issued,20%,"3 Residential/Commercial: Remodel/Renovate",388,550,600
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Permits Issued,20%,Other Permits:Electrical,2008,2400,2500
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Permits Issued,20%,Other Permits: Mechanical,914,1000,1050
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Permits Issued,20%,Other Permits: Demolitions,110,120,120
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Permits Issued,20%,"Miscellaneous (Fences, Elevators, Decks, Signs and Banners)",586,475,500
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Certificates Issued,50%,Certificates of Ocupancy,239,251,264
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Certificates Issued,50%,Certificates of Adequacy,2,3,4
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Certificates Issued,50%,Certificates of Compliance,387,406,426
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Certificates Issued,50%,Certificates of Completion,4378,4597,4827
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Certificates Issued,50%,Certificates of Inspection,13,14,15
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Certificates Issued,50%,Elevator Certificates,1310,2500,2500
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Inspections Relative To,10%,"Referrals, Complaints, Permits, Certificates, and Vacant Lots",77125,79300,80981
+NEIGHBORHOOD & BUSINESS DEVELOPMENT,Division of Code Enforcement,Rental Registry,20%,One & Two Family Non-Owner Occupied Properties,2498,1635,2000
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,Activity In Hours: --Aviation Department,960,900,1300
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,School District,2674,2700,3000
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,Garages,5,50,500
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,Other City Buildings,75,400,900
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,Energy/Environment Projects,59,100,300
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,Parks Facilities,1455,1100,2000
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,Sewer Project Inspection,719,500,800
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,TIP Related Projects Inspection,41,0,0
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,Street Cut Inspection,133,0,0
+ENGINEERING,Technical Services,"Building Construction & Renovation: Design and Administration of Building, Inspection of Projects",25%,Other/Administrative,26,50,100
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,Activity in Hours Permits & Contract Reviews,2229,2000,2000
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,Street Lighting,883,950,1000
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,Sewers/Culverts,718,1300,1500
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,TIP,3784,3400,4000
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,Other Projects,1563,2000,2000
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,Retaining Walls,22,50,200
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,Field Investigations,137,200,200
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,MS4 Regulations – Compliance,249,190,200
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,Permit Desk,80,0,0
+ENGINEERING,Technical Services,"Infrastructure: Design and Project Administration, Contract Service Management",24%,Other/Administrative,830,1000,800
+ENGINEERING,Technical Services,Mapping & Surveying,30%,"Activity in Hours Geographic Information System","1,138",1150,1300
+ENGINEERING,Technical Services,Mapping & Surveying,30%,DPW Street Reconstruction,1885,2100,2150
+ENGINEERING,Technical Services,Mapping & Surveying,30%,General Surveying,1926,1500,2200
+ENGINEERING,Technical Services,Mapping & Surveying,30%,Public Requests,867,700,1000
+ENGINEERING,Technical Services,Mapping & Surveying,30%,Reviews,1271,1300,1400
+ENGINEERING,Technical Services,Mapping & Surveying,30%,Record Management,777,650,800
+ENGINEERING,Technical Services,Mapping & Surveying,30%,Skaneateles Farm Survey,34,50,200
+ENGINEERING,Technical Services,Mapping & Surveying,30%,Permit Desk,46,0,0
+ENGINEERING,Technical Services,Mapping & Surveying,30%,Other/Administrative,807,800,1200
+ENGINEERING,Technical Services,Administration,21%,Divisions Administered,1,1,1
+ENGINEERING,Technical Services,Administration,21%,Employees Authorized,25,25,25
+PUBLIC WORKS,Main Office,Departmental Management,44%,Divisions Administered,10,10,10
+PUBLIC WORKS,Main Office,Departmental Management,44%,Employees Authorized,409,413,409
+PUBLIC WORKS,Main Office,Payroll,8%,Employee Leave Balances Maintained,375,390,390
+PUBLIC WORKS,Main Office,Procurement,12%,Claims Processed,3131,5636,4410
+PUBLIC WORKS,Main Office,Procurement,12%,Utility Bills Audited,3292,5246,4020
+PUBLIC WORKS,Main Office,Accounting,10%,Parking Reports Audited,96,96,96
+PUBLIC WORKS,Main Office,Accounting,10%,Capital Accounts Managed ,57,59,59
+PUBLIC WORKS,Main Office,Accounting,10%,Journal Entries Processed,269,200,200
+PUBLIC WORKS,Main Office,Accounting,10%,Budget Status Reports Prepared,13,13,13
+PUBLIC WORKS,Main Office,Accounting,10%,Budgets Prepared and Monitored,10,10,10
+PUBLIC WORKS,Main Office,Personnel Management,11%,Personnel Files Maintained,409,413,409
+PUBLIC WORKS,Main Office,Personnel Management,11%,Employee Grievances Processed,34,45,50
+PUBLIC WORKS,Main Office,Personnel Management,11%,Employee Injury Reports (C-2) Processed,310,325,315
+PUBLIC WORKS,Main Office,Permits /Enforcement,1%,Street Closing Permits Issued,67,70,75
+PUBLIC WORKS,Main Office,Permits /Enforcement,1%,Right-of-Way Waivers Issued,199,210,200
+PUBLIC WORKS,Main Office,Permits /Enforcement,1%,Non-Food Vending Permits Issued,58,60,60
+PUBLIC WORKS,Main Office,Permits /Enforcement,1%,Loading Zone Permits Issued,97,105,100
+PUBLIC WORKS,Main Office,Parking Contract Management,3%,City-Owned Parking Lots Administered: --Managed by the City,2,2,2
+PUBLIC WORKS,Main Office,Parking Contract Management,3%,City-Owned Parking Lots Administered: --Managed by a Contractor,1,0,0
+PUBLIC WORKS,Main Office,Parking Contract Management,3%,Lot #2,756,1200,1200
+PUBLIC WORKS,Main Office,Parking Contract Management,3%,Lot #4,276,175,175
+PUBLIC WORKS,Main Office,Parking Contract Management,3%,Autopark Hours Issued,4912,155,0
+PUBLIC WORKS,Main Office,Parking Contract Management,3%,Garages Administered,8,8,8
+PUBLIC WORKS,Main Office,Parking Contract Management,3%,Operating Agreements Administered,8,8,8
+PUBLIC WORKS,Main Office,Clerical,11%,-,-,-,-
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,City Blocks Cleaned,12500,12500,12500
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,Tires Collected,3800,4000,4000
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,Ramps Cleaned,2815,2850,2850
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,Ramps Mowed,898,980,980
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,Code Violations Picked Up,1300,1350,1350
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,Solid Waste Collection (Tons),580,580,580
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,Cuse Projects,23,40,40
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,Projects shoveled/salted,1955,2000,2000
+PUBLIC WORKS,Information and Service Request,Litter and Codes Quick Response Teams,80%,Vacant Lots cleaned,425,425,425
+PUBLIC WORKS,Building Services,Skilled Trades,77%,Sites Maintained,182,182,182
+PUBLIC WORKS,Building Services,Skilled Trades,77%,Routine Maintenance Hours,48000,49000,49000
+PUBLIC WORKS,Building Services,Skilled Trades,77%,Special Projects Hours,17000,18000,18000
+PUBLIC WORKS,Building Services,Skilled Trades,77%,Special Events Hours,6200,5000,4000
+PUBLIC WORKS,Building Services,Custodial/Maintenance,23%,In Square Feet: --City Hall,"101,091","101,091","101,091"
+PUBLIC WORKS,Building Services,Custodial/Maintenance,23%,In Square Feet: City Hall Commons,58950,58950,58950
+PUBLIC WORKS,Building Services,Custodial/Maintenance,23%,--DPW/DOT,"172,995","172,995","172,995"
+PUBLIC WORKS,Building Services,Custodial/Maintenance,23%,-# of Board-Ups,"1,657",1500,1500
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,Asphalt Produced (Tons),"14,904",17000,18000
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,--Recycled Top,6488,7700,8000
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,--Recycled Binder,6646,7800,5200
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,--Virgin Top,1563,1500,1500
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,--Cold Patch,564,0,0
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,Production Days,133,125,140
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,Tons per Day,112,136,140
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,Nuclear Gauge Testing,129,110,135
+PUBLIC WORKS,Street Repair,Asphalt Production,13%,Number of Marshall Test Sets,4,3,5
+PUBLIC WORKS,Street Repair,Special Projects,9%,Asphalt Applied – DPW Projects (Tons) ,588,1000,1200
+PUBLIC WORKS,Street Repair,Special Projects,9%,Other City Departments – Asphalt Applied (Tons):  Unimproved-Overlays,636,1000,1400
+PUBLIC WORKS,Street Repair,Special Projects,9%,Sewers,27,275,200
+PUBLIC WORKS,Street Repair,Special Projects,9%,Water,151,200,200
+PUBLIC WORKS,Street Repair,Special Projects,9%,BOE,697,400,300
+PUBLIC WORKS,Street Repair,Special Projects,9%,City Patch,1240,1300,1500
+PUBLIC WORKS,Street Repair,Special Projects,9%,Onondaga County,275,500,400
+PUBLIC WORKS,Street Repair,Inspections,7%,Assessment Sidewalks Installed (SF),"54,526",75400,82100
+PUBLIC WORKS,Street Repair,Inspections,7%,City-Owned Sidewalks Installed (SF),13080,15100,18400
+PUBLIC WORKS,Street Repair,Inspections,7%,Square Cut Repair,460,386,417
+PUBLIC WORKS,Street Repair,Inspections,7%,Granite Curb (lf),29900,32300,35000
+PUBLIC WORKS,Street Repair,Inspections,32%,Street Cuts:Underground Electric,9,9,9
+PUBLIC WORKS,Street Repair,Inspections,32%,Street Cuts:-Underground Gas,275,300,325
+PUBLIC WORKS,Street Repair,Inspections,32%,Street Cuts:--Underground Sewer,80,30,32
+PUBLIC WORKS,Street Repair,Inspections,32%,Street Cuts:-Underground Fiber,14,15,17
+PUBLIC WORKS,Street Repair,Inspections,32%,Street Cuts:--Borings,14,15,15
+PUBLIC WORKS,Street Repair,Inspections,32%,Street Cuts:--Paving,2,2,2
+PUBLIC WORKS,Street Repair,Inspections,32%,--Curbing,65,15,17
+PUBLIC WORKS,Street Repair,Improved Street Program,39%,City Forces: --Square Yards Paved,"49,832",65000,70000
+PUBLIC WORKS,Street Repair,Improved Street Program,39%,--Square Yards Milled,"49,832",65000,70000
+PUBLIC WORKS,Street Repair,Improved Street Program,39%,-Asphalt Applied (Tons),11034,12000,13000
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Repair,54%,Equipment Supported-DPW,348,352,362
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Repair,54%,Equipment Supported-Other,138,148,148
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Repair,54%,Repair Orders,4148,4764,4764
+PUBLIC WORKS,Motor Equipment Maintenance,Fueling,46%,Equipment Fueled,474,486,501
+PUBLIC WORKS,Motor Equipment Maintenance,Fueling,46%,Gasoline -Gallons,"716,581",740000,740000
+PUBLIC WORKS,Motor Equipment Maintenance,Fueling,46%,Diesel Fuel -Gallons,"309,273",330000,330000
+PUBLIC WORKS,Motor Equipment Maintenance,Fueling,46%,Natural Gas-Therms Purchased at Centro,7891,9000,9000
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Main Office,3,4,4
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Information & Service Requests,21,23,25
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Building Services,44,47,53
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Grounds Maintenance (includes mowers),73,75,75
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Street Repair,46,49,54
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Motor Equipment Maintenance,20,21,21
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Technical Services,14,13,13
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Waste Collection & Recycling,46,46,46
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Parks and Recreation,50,49,49
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Street Cleaning,61,64,64
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Street Sweeping and Flushing,21,19,21
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Transportation,24,24,24
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Sewers,51,52,52
+PUBLIC WORKS,Snow & Ice Control,Clearing Street of Snow and Ice,100%,Winter Season (November - April): --Snowfall in Inches,51,150,175
+PUBLIC WORKS,Snow & Ice Control,Clearing Street of Snow and Ice,100%,Tons of Salt,16918,50750,59200
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Municipal Solid Waste and Bulk Items,70.5%,Municipal Solid Waste Collected Annually (Tons),"37,295","37,591","38,343"
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Municipal Solid Waste and Bulk Items,70.5%,Average Trash Tons Per Day,143,145,147
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Recyclables,23.0%,Recyclables Collected (Tons),6805,6987,7127
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Recyclables,23.0%,Average Tons Collected Per Day,26,27,28
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Management of Division Functions,.80%,Daily Routes: --Waste Collection,15,15,15
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Management of Division Functions,.80%,Daily Routes: --Recycling,9,9,9
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Management of Division Functions,.80%,Daily Routes: --Number of Personnel Supervised,95,92,93
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Vendor Invoices Audited,60,60,60
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Commercial Customers Served,233,232,232
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Invoices Prepared & Mailed,932,928,928
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Customer's Tags Issued,1785,1785,1785
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Private Hauler License Applications Processed,19,18,18
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Private Hauler Stickers Issued,5248,4248,4248
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Appliances and Scrap Metal,1.00%,Appliances Collected,7,20,20
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Appliances and Scrap Metal,1.00%,Scrap Metal (Tons),78,85,90
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Tires,1.5%,Tires Collected (Tons),203,225,225
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Disposal of Construction and Demolition Debris,1.8%,C & D (Tons),2621,3000,3000
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Disposal of Street Sweeping Debris,.60%,Tons Disposed,4107,3625,3625
+PUBLIC WORKS,Street Cleaning,Street Sweeping and Flushing,25%,Annual Curb Miles Swept and Flushed,60000,60000,60000
+PUBLIC WORKS,Street Cleaning,Yard Waste Collection and Processing,32%,Requests for Service,526,530,535
+PUBLIC WORKS,Street Cleaning,Yard Waste Collection and Processing,32%,Cubic Yards Collected,"79,755",81000,83000
+PUBLIC WORKS,Street Cleaning,Yard Waste Collection and Processing,32%,Cubic Yards Processed,52000,60000,62000
+PUBLIC WORKS,Street Cleaning,Construction and Demolition Debris,12%,Requests for Service ,"2,148",2200,2200
+PUBLIC WORKS,Street Cleaning,Construction and Demolition Debris,12%,Cubic Yards Collected and Disposed,25000,34500,34500
+PUBLIC WORKS,Street Cleaning,Special Waste Collection,11%,Tons Collected and Disposed,3430,2500,2500
+PUBLIC WORKS,Street Cleaning,Leaf Collection,13%,Cubic Yards Collected and Composted,29460,22000,22000
+PUBLIC WORKS,Street Cleaning,Business District Litter Control,4%,Tons of Debris Collected and Disposed,240,240,240
+PUBLIC WORKS,Street Cleaning,Special Event Support,3%,Events Supported,35,35,35
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Repair,54%,Equipment Supported-DPW,348,352,362
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Repair,54%,Equipment Supported-Other,138,148,148
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Repair,54%,Repair Orders,4148,4764,4764
+PUBLIC WORKS,Motor Equipment Maintenance,Fueling,46%,Equipment Fueled,474,486,501
+PUBLIC WORKS,Motor Equipment Maintenance,Fueling,46%,Gasoline -Gallons,"716,581",740000,740000
+PUBLIC WORKS,Motor Equipment Maintenance,Fueling,46%,Diesel Fuel -Gallons,"309,273",330000,330000
+PUBLIC WORKS,Motor Equipment Maintenance,Fueling,46%,Natural Gas-Therms Purchased at Centro,7891,9000,9000
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Main Office,3,4,4
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Information & Service Requests,21,23,25
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Building Services,44,47,53
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Grounds Maintenance (includes mowers),73,75,75
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Street Repair,46,49,54
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Motor Equipment Maintenance,20,21,21
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Technical Services,14,13,13
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Waste Collection & Recycling,46,46,46
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Parks and Recreation,50,49,49
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Street Cleaning,61,64,64
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Street Sweeping and Flushing,21,19,21
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Transportation,24,24,24
+PUBLIC WORKS,Motor Equipment Maintenance,Equipment Supported,_,Sewers,51,52,52
+PUBLIC WORKS,Snow & Ice Control,Clearing Street of Snow and Ice,100%,Winter Season (November - April): --Snowfall in Inches,51,150,175
+PUBLIC WORKS,Snow & Ice Control,Clearing Street of Snow and Ice,100%,Tons of Salt,16918,50750,59200
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Municipal Solid Waste and Bulk Items,70.5%,Municipal Solid Waste Collected Annually (Tons),"37,295","37,591","38,343"
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Municipal Solid Waste and Bulk Items,70.5%,Average Trash Tons Per Day,143,145,147
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Recyclables,23.0%,Recyclables Collected (Tons),6805,6987,7127
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Recyclables,23.0%,Average Tons Collected Per Day,26,27,28
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Management of Division Functions,.80%,Daily Routes: --Waste Collection,15,15,15
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Management of Division Functions,.80%,Daily Routes: --Recycling,9,9,9
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Management of Division Functions,.80%,Daily Routes: --Number of Personnel Supervised,95,92,93
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Vendor Invoices Audited,60,60,60
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Commercial Customers Served,233,232,232
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Invoices Prepared & Mailed,932,928,928
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Customer's Tags Issued,1785,1785,1785
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Private Hauler License Applications Processed,19,18,18
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Accounting/Management of Contracts and Regulations,.80%,Private Hauler Stickers Issued,5248,4248,4248
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Appliances and Scrap Metal,1.00%,Appliances Collected,7,20,20
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Appliances and Scrap Metal,1.00%,Scrap Metal (Tons),78,85,90
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Collection and Disposal of Tires,1.5%,Tires Collected (Tons),203,225,225
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Disposal of Construction and Demolition Debris,1.8%,C & D (Tons),2621,3000,3000
+PUBLIC WORKS,"Waste Collection, Recycling and Disposal",Disposal of Street Sweeping Debris,.60%,Tons Disposed,4107,3625,3625
+PUBLIC WORKS,Transportation,Traffic Safety: --Sign Repair and Installation,5%,Traffic Signs Replaced or Repaired,7500,7500,7500
+PUBLIC WORKS,Transportation,Traffic Safety: --Signal Repair and Installation,9%,Number of Intersections with Traffic Signals,330,330,330
+PUBLIC WORKS,Transportation,Traffic Safety: --Pavement Marking,2%,Road Paint Purchased (Gallons),6000,6500,6000
+PUBLIC WORKS,Transportation,On-Street Parking,1%,Metered Parking Spaces,1900,1900,1900
+PUBLIC WORKS,Transportation,Off-Street Parking,32%,City Parking Garages,8,8,7
+PUBLIC WORKS,Transportation,Off-Street Parking,32%,City Leased Parking Lots,1,1,1
+PUBLIC WORKS,Transportation,Off-Street Parking,32%,City Managed Parking Lots,3,3,3
+PUBLIC WORKS,Transportation,"Planning, Design and Economic Development",1%,_,_,_,_
+PUBLIC WORKS,Transportation,City Owned and Maintained,1%,Streetscape (CBD) Lights,258,210,350
+PUBLIC WORKS,Transportation,City Owned and Maintained,1%,Streetscape (CBD) Poles,347,347,500
+PUBLIC WORKS,Transportation,City Owned and Maintained,1%,Creekwalk -Lights,50,50,126
+PUBLIC WORKS,Transportation,City Owned and Maintained,1%,Creekwalk -Poles,248,248,126
+PUBLIC WORKS,Transportation,City Owned and Maintained,1%,Outside CBD -Poles-Metal,180,192,192
+PUBLIC WORKS,Transportation,City Owned and Maintained,1%,Outside CBD -Poles-Topics,180,199,199
+PUBLIC WORKS,Transportation,City Owned and Maintained,1%,Connective Corridor -Ballards,0,0,122
+PUBLIC WORKS,Transportation,City Owned and Maintained,1%,Connective Corridor -Poles,0,0,23
+PUBLIC WORKS,Transportation,State Owned and City Maintained,3%,Interstates -Lights,833,833,890
+PUBLIC WORKS,Transportation,State Owned and City Maintained,3%,Interstates -Poles,812,812,820
+PUBLIC WORKS,Transportation,State Owned and City Maintained,3%,High Mast Lights,42,48,45
+PUBLIC WORKS,Transportation,State Owned and City Maintained,3%,High Mast Poles,7,8,10
+PUBLIC WORKS,Transportation,State Owned and City Maintained,3%,Highway & Bridges -Poles,155,155,155
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,5%,Decorative Lighting Districts -Lights,1251,1350,1350
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,5%,Decorative Lighting Districts -Poles-Metal,874,875,875
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,16%,Collectors & Arterials -Lights,4455,5000,5000
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,16%,Collectors & Arterials -Poles-Metal,987,990,990
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,16%,Collectors & Arterials -Poles-Fiberglass,50,50,50
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,16%,Collectors & Arterials -Poles-Wood,400,400,400
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,25%,Local Streets -Lights,6603,11000,11000
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,25%,Local Streets -Poles-Wood,255,260,260
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,25%,Creek Walk -Lights,0,0,202
+PUBLIC WORKS,Transportation,National Grid Owned & Maintained,25%,Creek Walk -Pole,0,0,0
+FIRE,Main Fire,Fire Suppression,95%,Fires or Explosions,1065,1200,1300
+FIRE,Main Fire,Fire Suppression,95%,Over Pressure Ruptures,38,38,50
+FIRE,Main Fire,Fire Suppression,95%,Rescue Calls,16657,16908,17000
+FIRE,Main Fire,Fire Suppression,95%,Hazardous Conditions,944,1200,1250
+FIRE,Main Fire,Fire Suppression,95%,Service Calls,1717,1736,1700
+FIRE,Main Fire,Fire Suppression,95%,Good Intent Calls,1504,1670,1700
+FIRE,Main Fire,Fire Suppression,95%,False Alarms,3120,3290,4000
+FIRE,Main Fire,Fire Suppression,95%,Other – Unclassified,160,160,170
+FIRE,Main Fire,Fire Suppression,95%,Vacant Building Inspections,58900,60000,62400
+FIRE,Main Fire,Fire Suppression,95%,School Safety Inspections,701,709,715
+FIRE,Main Fire,Fire Suppression,95%,Opticom Control Inspections,18720,18720,18720
+FIRE,Main Fire,Apparatus and Building Maintenance,4%,Buildings Maintained,13,13,13
+FIRE,Main Fire,Apparatus and Building Maintenance,4%,Vehicles Maintained,89,89,89
+FIRE,Main Fire,Apparatus and Building Maintenance,4%,Intersections Maintained,332,332,332
+FIRE,Main Fire,Fire Investigations,1%,Investigations Made,613,535,545
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,Initial Inspections,715,700,700
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,Re-inspections,1990,2100,2100
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,Joint Inspections,1266,600,1500
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,License Inspections,630,800,850
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,Blueprints & Plans Reviewed,613,800,900
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,Hazardous Condition Inspections,55,33,60
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,Public Assembly Inspections,2070,2500,2500
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,Unclassified Inspections,925,1000,1000
+FIRE,Fire Prevention Bureau,Code Education and Enforcement,100%,Public Education Presentations,430,400,300
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,Air Craft Emergencies,17,18,16
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,Air Craft Incidents,1,2,2
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,Fire/Hazardous Incidents,12,15,15
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,Fire Alarm Activation,33,30,30
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,POL(Pooling Oil Liquids) Spills,3,5,5
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,Medical Emergency,117,120,120
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,Investigations/Assists,27,15,15
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,Mutual Aid,1,1,1
+FIRE,Airport Crash Rescue,Airport Fire and EMS protection,100%,Miscellaneous,1,10,10
+POLICE,General Services Bureau,"Chief's Office, Administration and General Services Staff Offices Policy Formulation and Management",2,General Orders Issued,32,38,35
+POLICE,General Services Bureau,"Chief's Office, Administration and General Services Staff Offices Policy Formulation and Management",2%,Memorandum Orders Issued,34,40,40
+POLICE,General Services Bureau,"Chief's Office, Administration and General Services Staff Offices Policy Formulation and Management",2%,Temporary Operating Orders /Issued,2,2,2
+POLICE,General Services Bureau,"Chief's Office, Administration and General Services Staff Offices Policy Formulation and Management",2%,Personnel Orders Issued,559,565,560
+POLICE,General Services Bureau,Personnel Division - Includes Administrative Leave Unit,2%,Active Personnel Files Maintained,625,630,650
+POLICE,General Services Bureau,Personnel Division - Includes Administrative Leave Unit,2%,Transfer Requests Maintained,180,190,215
+POLICE,General Services Bureau,Personnel Division - Includes Administrative Leave Unit,2%,Secondary Employment Requestments Processed,146,160,175
+POLICE,General Services Bureau,Personnel Division - Includes Administrative Leave Unit,2%,"Appointments, Resignations and Retirements Procsesed",70,100,110
+POLICE,General Services Bureau,Personnel Division - Includes Administrative Leave Unit,2%,Background Investigations,30,200,200
+POLICE,General Services Bureau,Personnel Division - Includes Administrative Leave Unit,2%,Applicants Interviewed,30,200,230
+POLICE,General Services Bureau,Personnel Division - Includes Administrative Leave Unit,2%,Applicants Canvassed,45,800,800
+POLICE,General Services Bureau,Audit Budget and Control,3%,Purchase Requisitions,716,840,880
+POLICE,General Services Bureau,Audit Budget and Control,3%,Bureau Payrolls Completed,78,78,78
+POLICE,General Services Bureau,Audit Budget and Control,3%,Claims Prepared,2299,2300,2350
+POLICE,General Services Bureau,Audit Budget and Control,3%,Program Cost Reports,80,257,260
+POLICE,General Services Bureau,Audit Budget and Control,3%,Revenue Deposits Prepared,278,311,315
+POLICE,General Services Bureau,Training Division,1%,Recruit Training:,-,-,-
+POLICE,General Services Bureau,Training Division,1%,-Police Academy,0,25,25
+POLICE,General Services Bureau,Training Division,1%,-Outside Agencies,0,25,25
+POLICE,General Services Bureau,Training Division,1%,-Syracue C.S.O.'s,7,5,5
+POLICE,General Services Bureau,Training Division,1%,In-Service Training,472,462,460
+POLICE,General Services Bureau,Training Division,1%,Specialized On-Site Training,164,200,200
+POLICE,General Services Bureau,Training Division,1%,Field Training Officer-FTO,0,10,10
+POLICE,General Services Bureau,Training Division,1%,Breath Test Operator-BTO,21,50,50
+POLICE,General Services Bureau,Training Division,1%,BTO (RE-CERT),52,55,55
+POLICE,General Services Bureau,Training Division,1%,Standart Field Sobriety Test-SFST,17,50,50
+POLICE,General Services Bureau,Training Division,1%,RADAR,12,50,50
+POLICE,General Services Bureau,Training Division,1%,Specialized Off-site Training,423,450,450
+POLICE,General Services Bureau,Training Division,1%,CRT Crisis Response Training Days,12,12,12
+POLICE,General Services Bureau,Training Division,1%,Remedial Work Emergency Vehicle Operations Course - EVOC,11,60,50
+POLICE,General Services Bureau,Armament Section,-,Officers Qualifying (Semi-annually),600,500,1000
+POLICE,General Services Bureau,Armament Section,-,Weapons Repairs,150,450,500
+POLICE,General Services Bureau,Armament Section,-,Rifle School,1,1,6
+POLICE,General Services Bureau,Armament Section,-,Tactical Shotgun Training,480,420,450
+POLICE,General Services Bureau,Armament Section,-,Basic ERT School,10,28,28
+POLICE,General Services Bureau,Armament Section,-,ERT Training Days (Full Team),12,12,12
+POLICE,General Services Bureau,Armament Section,-,Sniper Unit Training Days,48,48,48
+POLICE,General Services Bureau,Armament Section,-,Recon Containment Unit Training Days,48,48,48
+POLICE,General Services Bureau,Armament Section,-,Entry Unit Training Days,48,48,48
+POLICE,General Services Bureau,Armament Section,-,Taser Certifications,0,5,10
+POLICE,General Services Bureau,Armament Section,-,Taser Re-Certifications,150,176,60
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Planning Projects/Studies,25,25,25
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Revision of Forms,15,15,15
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Surveys/Questionnaires-Outside,5,5,5
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Crime Analysis Reports,2200,2200,2200
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Annual Report for Department,1,1,1
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Special Requests,14,14,14
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Grants Administered,27,27,27
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Computer Systems Support,500,500,500
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Monthly/Quarterly Grant Reports,52,52,52
+POLICE,General Services Bureau,Intelligence & Technology Division,1%,Departmental Orders Processed,619,619,619
+POLICE,General Services Bureau,Central Records Division,5%,Complaint Records,146466,250000,200000
+POLICE,General Services Bureau,Central Records Division,5%,Teletype Messages,67285,67385,67400
+POLICE,General Services Bureau,Central Records Division,5%,Warrant Transactions,6778,7000,7100
+POLICE,General Services Bureau,Central Records Division,5%,Fingerprint Arrests,33,40,50
+POLICE,General Services Bureau,Central Records Division,5%,Total Arrests Processed,17387,18000,18500
+POLICE,General Services Bureau,Central Records Division,5%,Fingerprint Arrests,169333,170000,171000
+POLICE,General Services Bureau,Central Records Division,5%,Computer Reports,12,12,12
+POLICE,General Services Bureau,Transportation Division,5%,Preventive Maintenance Inspections,980,1030,1220
+POLICE,General Services Bureau,Transportation Division,5%,Work Orders Processed,2844,2960,3050
+POLICE,General Services Bureau,Transportation Division,5%,Police Vehicle Accidents Processed,135,145,155
+POLICE,General Services Bureau,Inspections Division,1%,Damage Claims Processed,49,55,50
+POLICE,General Services Bureau,Internal Affairs Division,1%,Cases Investigated,131,150,175
+POLICE,General Services Bureau,Property Division,1%,"Items of Evidence, Found Property & Safekeeping Processed",27929,32000,32259
+POLICE,General Services Bureau,Property Division,1%,Processing DA's Office Requests for Release,575,610,611
+POLICE,General Services Bureau,Property Division,1%,Property Released Transactions,610,625,666
+POLICE,General Services Bureau,Property Division,1%,Recovered Weapons Meltdowns,1,1,1
+POLICE,General Services Bureau,Property Division,1%,Printing Services,210000,210000,210000
+POLICE,General Services Bureau,Property Division,1%,Annual Inventory Updates,195,195,195
+POLICE,General Services Bureau,Property Division,1%,Drug Burns,2,2,2
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Police Response for Services,"144,753",147250,149000
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Patrol Miles Logged,"                                                                              1,774,219","1,800,001","1,820,000"
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Average Priority Response Time (Minutes),4,5,5
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Recorded Incidents (DR Numbers Issues),"163,053","163,425",164000
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Persons Arrested,"12,249",12600,12650
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Accidents Investigated,6734,7000,7287
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Sporting Events/Assemblies,183,187,193
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Parades/Escorts,105,110,115
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Moving Violations Cited,30560,32310,32500
+POLICE,Uniform Bureau," Uniform Patrol: Responding to calls for Service, Emergencies and Accident Investigation Includes Airport Division",46%,Parking Violations Cited,"109,899",110000,110100
+POLICE,Uniform Bureau,K-9 Section,-,Building Searches,231,269,250
+POLICE,Uniform Bureau,K-9 Section,-,Directed Searches,50,57,60
+POLICE,Uniform Bureau,K-9 Section,-,K-9 Tracking,24,28,25
+POLICE,Uniform Bureau,K-9 Section,-,Explosive Searches,233,64,60
+POLICE,Uniform Bureau,K-9 Section,-,Building Perimeter Checks,506,455,475
+POLICE,Uniform Bureau,K-9 Section,-,Narcotics Detection,93,74,75
+POLICE,Uniform Bureau,K-9 Section,-,Officer Protection,110,158,175
+POLICE,Uniform Bureau,Community Relations,3%,Interns From Area Colleges,24,30,30
+POLICE,Uniform Bureau,Community Relations,3%,Civilian Riders,300,300,300
+POLICE,Uniform Bureau,Community Relations,3%,McGruff Robots Presentation,30,30,30
+POLICE,Uniform Bureau,S.I.R.P. (Middle & High Schools),-,Arrests ,239,220,220
+POLICE,Uniform Bureau,S.I.R.P. (Middle & High Schools),-,Disturbances,293,250,250
+POLICE,Uniform Bureau,S.I.R.P. (Middle & High Schools),-,Weapons Recovered,126,130,130
+POLICE,Uniform Bureau,S.I.R.P. (Middle & High Schools),-,Incidents Reports,442,500,500
+POLICE,Uniform Bureau,D.A.R.E Program,-,DARE Contracts: Students,1542,1500,1500
+POLICE,Uniform Bureau,D.A.R.E Program,-,Officer Friendly,6454,7000,7000
+POLICE,Uniform Bureau,G.R.E.A.T. Program,-,Students Educated,1761,1800,1800
+POLICE,Uniform Bureau,G.R.E.A.T. Program,-,Number of Classes Taught,480,485,485
+POLICE,Uniform Bureau,Recruitment Session,-,Exam Notices mailed,1293,1300,1300
+POLICE,Uniform Bureau,Recruitment Session,-,Telephone Referrals,1091,1100,1100
+POLICE,Uniform Bureau,Recruitment Session,-,Emails,846,850,850
+POLICE,Uniform Bureau,Recruitment Session,-,Other Referrals/Walk-ins,80,100,100
+POLICE,Uniform Bureau,Recruitment Session,-,Police Exam Study Classes,4,4,4
+POLICE,Uniform Bureau,Recruitment Session,-,Students Attended,65,70,70
+POLICE,Uniform Bureau,Recruitment Session,-,Off-Site Visits,18,18,18
+POLICE,Uniform Bureau,Recruitment Session,-,Persons Contacted,254,260,260
+POLICE,Uniform Bureau,Recruitment Session,-,City School Visits,9,10,10
+POLICE,Uniform Bureau,Recruitment Session,-,Students Contacted,389,400,400
+POLICE,Uniform Bureau,Recruitment Session,-,College Visits,4,5,5
+POLICE,Uniform Bureau,Recruitment Session,-,Persons Contacted,78,100,100
+POLICE,Uniform Bureau,License Division,6%,License Reviewed/Issued,1399,1328,1300
+POLICE,Uniform Bureau,License Division,6%,Taxi Inspections Complaint,447,600,550
+POLICE,Uniform Bureau,License Division,6%,Alarms/OLEIS Subscribers,1300,1400,1400
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Calls Responded To,11308,10000,10000
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Total Reports,3419,3000,3000
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Assist to Other Agencies,155,155,155
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Business/Property/Special Events Checks,34458,30000,30000
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Details (assists to other sections),-,-,-
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Schools Crossings & Details,359,246,359
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Neighborhood Meetings/Functions,246,250,246
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Number of Arrests,273,250,250
+POLICE,Uniform Bureau,Community Policing Storefronts/Trailers,-,Appearance Tickets,73,70,70
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Total Complaints Received,1036,1040,1100
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Abandoned Vehicle Complaints,290,300,300
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Total List Complaints,0,3,0
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Total Number of Towed Vehicles,14,10,20
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Vehilcles Reclaimed by Owners,4,5,5
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Vehicles Sold By Auction,0,10,20
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Parking Complaints,37,40,45
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Snow Complaints,2,10,10
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Trash & Debris Complaint,51,60,75
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Miscellaneous/Unfounded Complaints,696,800,850
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Salvage Certificates Issued,119,120,120
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Red Tags Issued,381,400,500
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Burglary Investigations Completed,92,200,250
+POLICE,Uniform Bureau,Ordinance Enforcement Section,-,Vacant Property Trespass Statements Taken,302,300,300
+POLICE,Uniform Bureau,Operation Safe Child,-,Youth Served,1043,1000,1000
+POLICE,Uniform Bureau,Operation Safe Child,-,Events Held,52,50,50
+POLICE,Uniform Bureau,Neighborhood Watch,-,Meetings Attended,274,274,290
+POLICE,Uniform Bureau,Neighborhood Watch,-,New Groups Formed,0,14,5
+POLICE,Uniform Bureau,Criminal Investigations Division (Includes Selective Enforcement Unit),10%,Crimes Against Property Investigations,2570,3038,3000
+POLICE,Uniform Bureau,Criminal Investigations Division (Includes Selective Enforcement Unit),10%,Crimes Against Persons Investigation,1103,1248,1300
+POLICE,Uniform Bureau,Criminal Investigations Division (Includes Selective Enforcement Unit),10%,Cold Cases,66,69,69
+POLICE,Uniform Bureau,Criminal Investigations Division (Includes Selective Enforcement Unit),10%,Polygraph Investigation,8,16,79
+POLICE,Uniform Bureau,Criminal Investigations Division (Includes Selective Enforcement Unit),10%,Forgery Investigation,495,450,400
+POLICE,Uniform Bureau,Criminal Investigations Division (Includes Selective Enforcement Unit),10%,Warrants,1773,1800,1900
+POLICE,Uniform Bureau,Criminal Investigations Division (Includes Selective Enforcement Unit),10%,Computer Forensics,-,-,-
+POLICE,Uniform Bureau,Crime Reduction Team,-,Recovered Guns,40,40,45
+POLICE,Uniform Bureau,Crime Reduction Team,-,Pedestrian Stops,927,950,1100
+POLICE,Uniform Bureau,Crime Reduction Team,-,Parking Tickets Issued,73,100,125
+POLICE,Uniform Bureau,Crime Reduction Team,-,Vehicle & Traffic Stops,2263,2500,2800
+POLICE,Uniform Bureau,Crime Reduction Team,-,Warranty Arrests,194,225,250
+POLICE,Uniform Bureau,Crime Reduction Team,-,Traffic Tickets Issued,3810,4500,5000
+POLICE,Uniform Bureau,Crime Reduction Team,-,Warrant Arrests,194,225,250
+POLICE,Uniform Bureau,Crime Reduction Team,-,Appearance Tickets Issued,1229,1500,1600
+POLICE,Uniform Bureau,Crime Reduction Team,-,Violation Arrests (charges),1472,1600,1750
+POLICE,Uniform Bureau,Crime Reduction Team,-,Misdemeanor Arrest (charges),1246,1600,1650
+POLICE,Uniform Bureau,Crime Reduction Team,-,Felony Arrests (charges),231,250,275
+POLICE,Uniform Bureau,Family Services Division,5%,Juvenile Arrests Processed,27,31,33
+POLICE,Uniform Bureau,Family Services Division,5%,Adult Arrests,74,86,95
+POLICE,Uniform Bureau,Family Services Division,5%,Missing Persons Investigations,704,825,900
+POLICE,Uniform Bureau,Family Services Division,5%,Domestic Violence Investigations,166,200,200
+POLICE,Uniform Bureau,Family Services Division,5%,Domestic Violence Arrests,58,100,100
+POLICE,Uniform Bureau,Family Services Division,5%,Domestic Violence Charges,100,150,150
+POLICE,Uniform Bureau,Family Services Division,5%,Adult Sex Abuse Investigations,96,110,121
+POLICE,Uniform Bureau,Family Services Division,5%,Child Abuse Investigations,11,20,24
+POLICE,Uniform Bureau,Family Services Division,5%,Child Sex Investigations,253,278,303
+POLICE,Uniform Bureau,Family Services Division,5%,Total Charges,102,112,122
+POLICE,Uniform Bureau,Family Services Division,5%,Megan's Law Investigations,436,500,550
+POLICE,Uniform Bureau,Special Investigations Division (Includes Neighborhood Anti-Crime Unit),-,Narcotics Arrest Charges,1123,1250,1250
+POLICE,Uniform Bureau,Special Investigations Division (Includes Neighborhood Anti-Crime Unit),-,Narcotics-Number of Persons Arrested,306,350,350
+POLICE,Uniform Bureau,Special Investigations Division (Includes Neighborhood Anti-Crime Unit),-,Vice Arrest Charges,47,35,30
+POLICE,Uniform Bureau,Special Investigations Division (Includes Neighborhood Anti-Crime Unit),-,Vice-Number of Persons Arrested,41,29,25
+POLICE,Uniform Bureau,Technical Operations Section,-,Forfeiture Cases Processed,243,250,260
+POLICE,Uniform Bureau,Technical Operations Section,-,Security Details,20,25,25
+POLICE,Uniform Bureau,Technical Operations Section,-,Telephone Repair Requests Processed,185,200,225
+POLICE,Uniform Bureau,Technical Operations Section,-,Orders for Mobile Radio Installation & Removal,89,90,100
+POLICE,Uniform Bureau,Technical Operations Section,-,Orders for Mobile Radio Repairs,20,25,40
+POLICE,Uniform Bureau,Technical Operations Section,-,Orders for Portable Radio Repairs,12,20,40
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,Administration Bureau ,11,11,11
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,--Dog Control Bureau ,9,9,9
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,--Parks Grounds Maintenance,18,18,18
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,--Recreation Bureau ,15,15,15
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,--Capital Accounts ,28,28,28
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,Federal & State Grant Reports,25,25,25
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,--Planning and Development Office ,3,3,3
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,--Special Events Office,4,4,4
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,Adult Athletics ,4,4,4
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,Aquatics,3,3,3
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,Ice Skating Recreation ,1,1,1
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,Centers/Youth Programs ,7,7,7
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,"Management & Administration of Entire Department, Including Capital Projects",100%,Senior Centers,2,2,2
+"PARKS, RECREATION AND YOUTH PROGRAMS",Administration Bureau,Community Mural Project,-,Special Projects Completed,1,1,1
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Community Parks and Centers ,33,33,33
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Total Acreage ,600,600,600
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,"Playlots, Fields, Courts and Pools",23,23,23
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Total Acreage,40,40,40
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Downtown Parks ,16,16,16
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Total Acreage ,7.5,7.5,7.5
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Open Space Areas and Cemeteries ,10,10,10
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Total Acreage ,83,83,83
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Natural Areas ,6,6,6
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Total Acreage ,170,170,170
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Medians and Traffic Islands ,100,100,100
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Total Acreage ,65,65,65
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Other Park Maintenance,20%,Number of Fountains Maintained,6,6,6
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Golf Course Maintenance,4%,Golf Courses Maintained,2,2,2
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Ballfield Maintenance,7%,Little League Fields Maintained ,37,37,37
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Ballfield Maintenance,7%,City Recreation Fields Maintained,10,10,10
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Grass Cutting and Trimming,14%,-City Personnel ,90,90,90
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Grass Cutting and Trimming,14%,--Contracted Services,600,600,600
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,"Tree Planting, Trimming and Removal",17%,Trees Planted by Contract ,150,175,175
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,"Tree Planting, Trimming and Removal",17%,Trees Trimmed by Contract ,400,437,500
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,"Tree Planting, Trimming and Removal",17%,Trees Removed by Contract ,333,500,500
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,"Tree Planting, Trimming and Removal",17%,Stumps Removed by Contract,450,600,700
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Special Events,6%,Number of Events Requiring Services,100,100,100
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,"Leaf Collection, Litter, Other",20%,-,-,2,2
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Pool Maintenance,6%,Indoor Sites ,2,2,2
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Pool Maintenance,6%,Outdoor Sites,8,8,8
+"PARKS, RECREATION AND YOUTH PROGRAMS",Grounds Maintenance,Ice Rink Maintenance,6%,Ice Rinks Maintained,3,3,3
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Administration of Recreation Facilities and Programs,17%,This Includes all of our Program Directors,,,
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Number of Recreation Centers,11,11,11
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Bova Community Center (Schiller Park) ,"10,584",10000,10000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Cannon Street Community Center,6128,5000,5000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--McChesney Park Recreation Center ,15784,18000,20000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Hamilton Street Teen Program ,5314,5000,4500
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Northeast Community Center,14305,15000,25000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Seals Community Center (Kirk Park) ,9666,7000,7000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Ed Smith Afterschool Program ,7878,5500,5500
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Southwest Community Center ,"23,474",20000,20000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Westmoreland Park Community Center ,"13,282",11500,11500
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Wilson Park Community Center ,"14,082",14500,14500
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,--Shonnard Teen Programs,6170,7000,7000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Rec. Center Basketball League (12 & Under) ,100,90,90
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Rec. Center Basketball League (13-15) ,80,100,140
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Winter Biddy Basketball League ,187,180,180
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Tennis Program (Fall & Spring Clinics),36,50,50
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Fall Soccer Program @ Burnet,114,105,120
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Staff Training Sessions ,19,15,8
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Volunteers (Various Sources) ,15,30,25
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Service Learning ,112,100,100
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Recreation Centers,20%,Spring Basketball League 16-18,49,50,50
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Senior Programs,14%,"Bob Cecile Senior Center --Number of Senior Participant Visits Made (Includes Senior Nutrition Program Participation, field Trips, musical Events, Etc.)","7,236",8000,8500
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Senior Programs,14%,"McChesney Recreation Center --Number of Senior Participant Visits Made (Includes Senior Nutrition Program Participation, field Trips, musical Events, Etc.)","23,196",24500,24700
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Senior Programs,14%,"Westside Senior Center --Number of Senior Participant Visits Made (Includes Senior Nutrition Program Participation, field Trips, musical Events, Etc.)","3,485",3900,4200
+"PARKS, RECREATION AND YOUTH PROGRAMS",Recreation,Senior Programs,14%,"Burnet Park Senior Arts & Crafts Program --Number of Senior Participant Visits Made (Programs Include Beading, Watercolor Painting, Quilting, Sewing, Knitting & Pottery/Ceramics)","10,643",10800,11000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Dog Control,Dog Control,100%,Complaints Taken ,3254,5361,5700
+"PARKS, RECREATION AND YOUTH PROGRAMS",Dog Control,Dog Control,100%,Complaints Answered ,3020,3768,3990
+"PARKS, RECREATION AND YOUTH PROGRAMS",Dog Control,Dog Control,100%,Money Collected From Seizure Fees ,7324,8890,9000
+"PARKS, RECREATION AND YOUTH PROGRAMS",Dog Control,Dog Control,100%,Number of Tickets Issued ,436,566,581
+"PARKS, RECREATION AND YOUTH PROGRAMS",Dog Control,Dog Control,100%,Number of Tickets/Fines Paid ,1425,1658,1866
+"PARKS, RECREATION AND YOUTH PROGRAMS",Dog Control,Dog Control,100%,Animals Impounded: Dogs,958,1280,1380
+"PARKS, RECREATION AND YOUTH PROGRAMS",Dog Control,Dog Control,100%,Animals Impounded: Cats,27,61,66
+AVIATION,-,Maintenance and Operations,54%,Sq.Ft. Terminal Maintained ,325000,325000,325000
+AVIATION,-,Maintenance and Operations,54%,Sq.Ft. (2) Hangars Maintained ,33000,33000,33000
+AVIATION,-,Maintenance and Operations,54%,Sq.Ft. Maintenance Building Maintained ,"19,241","19,241","19,241"
+AVIATION,-,Maintenance and Operations,54%,Sq.Ft. Rescue Building Maintained ,16000,16000,16000
+AVIATION,-,Maintenance and Operations,54%,Sq.Ft. Parking Garage Maintained ,"1,020,000","1,020,000","1,020,000"
+AVIATION,-,Maintenance and Operations,54%,Runway Lights Maintained ,"1,405","1,405","1,405"
+AVIATION,-,Maintenance and Operations,54%,Taxiway Lights Maintained,650,650,650
+AVIATION,-,Maintenance and Operations,54%,Heavy Duty Equipment and Vehicles Maintained ,97,100,100
+AVIATION,-,Maintenance and Operations,54%,Passengers Enplaned (Calendar Year),"961,167","1,000,000","1,000,000"
+AVIATION,-,Security,14%,Provided by Private Security (G4S),-,-,-
+AVIATION,-,Administration/Management,20%,Daily Passenger Aircraft Operations ,130,130,130
+AVIATION,-,Administration/Management,20%,"Passenger Carrier Landing Weight (1,000's) ","1,553,000","1,600,000","1,600,000"
+AVIATION,-,Administration/Management,20%,Tons Enplaned Freight ,19960,20000,20000
+AVIATION,-,Administration/Management,20%,Contracts and Agreements Monitored ,100,100,100
+AVIATION,-,Administration/Management,20%,Work Orders Responded to Annually ,500,500,500
+AVIATION,-,Administration/Management,20%,Tours Conducted,25,25,25
+AVIATION,-,Aircraft Rescue,12%,Provided by Syracuse Fire Department,-,-,-
+WATER,Water Finance ,Meter Readings,42%,Meters Read ,"145,624","145,624","148,448"
+WATER,Water Finance ,Meter Readings,42%,Special Meter Readings ,"3,262","3,262",2700
+WATER,Water Finance ,Meter Readings,42%,Hearing Notice Door Hangers,0,0,3000
+WATER,Water Finance ,Records Handling and Accounting,48%,Customers,39900,39900,39652
+WATER,Water Finance ,Records Handling and Accounting,48%,Bills Issued/No Bills City/School Buildings,"163,993","163,993","157,237"
+WATER,Water Finance ,Records Handling and Accounting,48%,Customer Payments Received ,125250,125250,"145,296"
+WATER,Water Finance ,Records Handling and Accounting,48%,Customers Serviced Phone/Counter ,"43,062",43850,43970
+WATER,Water Finance ,Records Handling and Accounting,48%,Letter Campaign (Arrears-Water Termination),1200,1200,1200
+WATER,Water Finance ,Records Handling and Accounting,48%,Address Changes/Reissued Bills ,"8,574","8,574",8200
+WATER,Water Finance ,Records Handling and Accounting,48%,Letters Due to Estimated Bills,11000,10000,11000
+WATER,Water Finance ,Collections on Delinquent Accounts,10%,Payments Received By: - Internet ,N/A,N/A,10768
+WATER,Water Finance ,Collections on Delinquent Accounts,10%,- Finance/Treasury ,"26,833",26500,"35,626"
+WATER,Water Finance ,Collections on Delinquent Accounts,10%,- Bank ,"96,528",97000,84120
+WATER,Water Finance ,Collections on Delinquent Accounts,10%,- Accounts with Payment Plans-yearly average,300,350,300
+WATER,Water Finance ,Collections on Delinquent Accounts,10%,TOTAL,"123,661",123850,"130,814"
+WATER,Engineering,"Planning, Programming and Policy Development",10%,Major Projects or Planning Activities,30,30,30
+WATER,Engineering,Water System Operations and Water Quality Control,20%,Major System Parameters Monitored & Controlled,30,30,30
+WATER,Engineering,Water System Operations and Water Quality Control,20%,Operating Reports Prepared ,37,37,37
+WATER,Engineering,Water System Operations and Water Quality Control,20%,Regulatory Reports Prepared ,22,23,23
+WATER,Engineering,Water System Operations and Water Quality Control,20%,Major Projects Supervised,30,27,27
+WATER,Engineering,Contracted Purchasing and Project Supervision,20%,Specifications and Plans Prepared ,25,25,25
+WATER,Engineering,Contracted Purchasing and Project Supervision,20%,Construction Projects Supervised ,19,18,18
+WATER,Engineering,Contracted Purchasing and Project Supervision,20%,Value of Materials & Equipment Purchased,"$975,000 ","$1,095,000","$1,150,000 "
+WATER,Engineering,Contracted Purchasing and Project Supervision,20%,Value of Capital Projects Supervised ,"$6,571,600 ","$35,300,600 ","$15,000,000"
+WATER,Engineering,Contracted Purchasing and Project Supervision,20%,Value of Professional Services Purchased,"$3,292,764","$3,000,000","$3,000,000"
+WATER,Engineering,Water System Mapping and Surveying,10%,New Maps Prepared ,35,20,20
+WATER,Engineering,Water System Mapping and Surveying,10%,Plans Drawn for System Extensions or Main Replacement ,40,55,55
+WATER,Engineering,Water System Mapping and Surveying,10%,Hydrant Maps Updated ,95,75,75
+WATER,Engineering,Water System Mapping and Surveying,10%,Hydrant Maps Repaired ,0,2,2
+WATER,Engineering,Water System Mapping and Surveying,10%,Hydrant Information Updated ,103,105,125
+WATER,Engineering,Water System Mapping and Surveying,10%,Digital Map Information (GPS) ,70,95,95
+WATER,Engineering,Water System Mapping and Surveying,10%,Fire Service Data Updated ,25,20,25
+WATER,Engineering,Water System Mapping and Surveying,10%,Service Data Updates ,135,150,150
+WATER,Engineering,Water System Mapping and Surveying,10%,Meter Data Updated,150,200,200
+WATER,Engineering,Issuance of Water Service Permits,5%,Domestic Services ,87,55,50
+WATER,Engineering,Issuance of Water Service Permits,5%,Fire Services ,31,5,5
+WATER,Engineering,Issuance of Water Service Permits,5%,Combined Fire & Domestic ,0,1,0
+WATER,Engineering,Issuance of Water Service Permits,5%,Hydrant Use Permits ,57,60,65
+WATER,Engineering,Issuance of Water Service Permits,5%,Contractor Inquiries,850,1000,1000
+WATER,Engineering,Citizen Service,15%,Complaints & Information Requests ,325,300,300
+WATER,Engineering,Citizen Service,15%,Processed Water Information Mailed,33600,35000,35000
+WATER,Engineering,Budget & Personnel Administration,10%,Budgets Prepared ,5,5,5
+WATER,Engineering,Budget & Personnel Administration,10%,Payment Claims Approved ,625,650,650
+WATER,Engineering,Budget & Personnel Administration,10%,Common Council Actions Requested ,31,30,30
+WATER,Engineering,Budget & Personnel Administration,10%,Major Personnel Actions & Grievances Processed,5,8,5
+WATER,Engineering,Development & Plan Review,10%,"Projects Reviewed: --Over $250,000 ",25,25,25
+WATER,Engineering,Development & Plan Review,10%,--Street Cuts Permits Reviewed,91,150,150
+WATER,Water Quality Management Section,Surveillance of the Watershed Policy,25%,Days Spent Patrolling Watershed ,342,350,350
+WATER,Water Quality Management Section,Surveillance of the Watershed Policy,25%,Violators Cited ,28,40,50
+WATER,Water Quality Management Section,Surveillance of the Watershed Policy,25%,Percolation Tests Witnessed ,26,50,50
+WATER,Water Quality Management Section,Surveillance of the Watershed Policy,25%,Dead Deer Removed From Watershed,51,75,100
+WATER,Water Quality Management Section,Water Quality Control Surveying,25%,Microscopic Exams of Lake Water Samples,108,100,100
+WATER,Water Quality Management Section,Water Quality Control Surveying,25%,Microscopic Exams of Reservoir Water Samples ,92,75,75
+WATER,Water Quality Management Section,Water Quality Control Surveying,25%,Microscopic Exams of Residential Water Samples ,3,5,5
+WATER,Water Quality Management Section,Water Quality Control Surveying,25%,Algicide Treatments Applied to City Reservoirs,9,10,10
+WATER,Water Quality Management Section,Purification of Water Supply,50%,Million Gallons Treated per Day at Skaneateles Lake,43,43,43
+WATER,Water Quality Management Section,Purification of Water Supply,50%,Residential Water Samples,4,5,5
+WATER,Skaneateles Watershed Management Program,Watershed Management ,100%,Number of Farm Equivalents Completed (planning),1,0,1
+WATER,Skaneateles Watershed Management Program,Watershed Management ,100%,Acres of Land Protected (Implemented) ,205,42,39
+WATER,Skaneateles Watershed Management Program,Watershed Management ,100%,CREP Acres (w/ contracts) Protected ,0,10,0
+WATER,Skaneateles Watershed Management Program,Watershed Management ,100%,Whole Farm Plan Updates ,41,41,42
+WATER,Skaneateles Watershed Management Program,Watershed Management ,100%,Plan Revisions ,3,4,4
+WATER,Skaneateles Watershed Management Program,Watershed Management ,100%,BMP Field Reviews,6,15,15
+WATER,Plant Section,Water System Maintenance Policy Development,56%,"Repairs to Mains, Conduits & Services ",309,360,320
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Hydrants Inspected ,"2,813",2600,3000
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Broken Hydrants Repaired,430,250,400
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Broken Hydrants Replaced,72,40,70
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Hydrant Locks Installed ,9,20,15
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Main Gates Replaced ,27,60,40
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Main Gates Repaired ,65,70,75
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Water Services Renewed ,20,100,50
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Water Services Thawed Out ,4,10,5
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Curb Boxes Repaired or Replaced ,309,350,300
+WATER,Plant Section,Water System Maintenance Policy Development,56%,Street Cuts Repaired,101,150,150
+WATER,Plant Section,Management of Site Restoration,20%,Number of Street Cuts ,264,250,250
+WATER,Plant Section,Management of Site Restoration,20%,Number of Square Feet ,42000,50000,50000
+WATER,Plant Section,Management of Site Restoration,20%,Value of Restoration,"$772,000","$800,000","$850,000"
+WATER,Plant Section,Management of Site Restoration,20%,"Sidewalks, Driveways & Curbing: Number of Cuts ",97,,150
+WATER,Plant Section,Management of Site Restoration,20%,Number of Square Feet ,28500,20000,20000
+WATER,Plant Section,Management of Site Restoration,20%,Value of Restoration,"$134,687","$150,000","$150,000"
+WATER,Plant Section,Water Meter Replacement and Maintenance,4%,Service Calls ,3480,4000,4000
+WATER,Plant Section,Water Meter Replacement and Maintenance,4%,Meters Tested,320,475,500
+WATER,Plant Section,Water Meter Replacement and Maintenance,4%,Installation of New Meters --Residential,2170,2100,2500
+WATER,Plant Section,Water Meter Replacement and Maintenance,4%,--Commercial,7,10,10
+WATER,Plant Section,Water Meter Replacement and Maintenance,4%,Minor Plumbing ,195,200,200
+WATER,Plant Section,Water Meter Replacement and Maintenance,4%,Repairs by City Number of Remotes Installed,"2,263",2500,2500
+WATER,Plant Section,Water Meter Replacement and Maintenance,4%,Meters Repaired,54,50,25
+WATER,Plant Section,Water System Expansion,7%,Installation of New Services ,53,50,50
+WATER,Plant Section,Water System Expansion,7%,Installation of New Gates ,26,25,30
+WATER,Plant Section,Water System Expansion,7%,Installation of New Hydrants,3,10,5
+WATER,Plant Section,Vehicle Maintenance,5%,Repair Orders Placed ,785,800,800
+WATER,Plant Section,Vehicle Maintenance,5%,Vehicles in Fleet ,51,49,50
+WATER,Plant Section,Vehicle Maintenance,5%,Construction Equipment in Inventory,50,48,51
+WATER,Plant Section,"Purchasing, Payroll and Accounting",4%,Purchase Requisitions Initiated ,450,500,500
+WATER,Plant Section,"Purchasing, Payroll and Accounting",4%,Claims Processed ,555,550,575
+WATER,Plant Section,"Purchasing, Payroll and Accounting",4%,Personnel Files Maintained ,113,113,114
+WATER,Plant Section,"Purchasing, Payroll and Accounting",4%,Payroll Checks Processed ,3000,3000,3000
+WATER,Plant Section,"Purchasing, Payroll and Accounting",4%,Miscellaneous Billing & Statements,38,45,50
+WATER,Plant Section,Lead Service Replacement,4%,Lead Service Replacement,41,50,50
+PUBLIC WORKS,Sewers and Streams,Digging Division,23%,Repair Mains ,35,20,20
+PUBLIC WORKS,Sewers and Streams,Digging Division,23%,Repair House Laterals ,39,30,30
+PUBLIC WORKS,Sewers and Streams,Digging Division,23%,Repair House Vents ,155,150,50
+PUBLIC WORKS,Sewers and Streams,Digging Division,23%,Repair Catch Basin Laterals,35,28,28
+PUBLIC WORKS,Sewers and Streams,Digging Division,23%,Repair Manholes ,2,1,1
+PUBLIC WORKS,Sewers and Streams,Digging Division,23%,Other Cave-Ins or Dig Jobs ,78,40,40
+PUBLIC WORKS,Sewers and Streams,Digging Division,23%,Maintain Street Cuts,131,120,200
+PUBLIC WORKS,Sewers and Streams,Flushing & Main Sewer Cleaning,18%,Flush Cellars or Vents ,"6,111",4000,4100
+PUBLIC WORKS,Sewers and Streams,Flushing & Main Sewer Cleaning,18%,Jet Clean Main Sewers (Sections) ,458,600,100
+PUBLIC WORKS,Sewers and Streams,Flushing & Main Sewer Cleaning,18%,Jet Clean Main Sewers (Miles) ,22,4,5
+PUBLIC WORKS,Sewers and Streams,Flushing & Main Sewer Cleaning,18%,Jet Open Main Sewers,26,40,40
+PUBLIC WORKS,Sewers and Streams,Flushing & Main Sewer Cleaning,18%,Replace Vent Caps ,100,150,150
+PUBLIC WORKS,Sewers and Streams,Flushing & Main Sewer Cleaning,18%,Jet Flush Sewer Laterals,1940,1100,1100
+PUBLIC WORKS,Sewers and Streams,Main Cleaning Division,13%,Loads to Metro ,131,89,89
+PUBLIC WORKS,Sewers and Streams,Main Cleaning Division,13%,Clean Catch Basins ,107,200,200
+PUBLIC WORKS,Sewers and Streams,Main Cleaning Division,13%,Special Events (Hours) ,100,100,100
+PUBLIC WORKS,Sewers and Streams,Main Cleaning Division,13%,Clean Main Sewers(Sections) ,149,150,250
+PUBLIC WORKS,Sewers and Streams,Main Cleaning Division,13%,Clean Main Sewers (Miles),10,11,20
+PUBLIC WORKS,Sewers and Streams,Mason Division,23%,Catch Basins Repaired ,602,500,500
+PUBLIC WORKS,Sewers and Streams,Mason Division,23%,Manholes Cut Out ,25,30,30
+PUBLIC WORKS,Sewers and Streams,Mason Division,23%,Manholes Raised/Repaired ,24,25,40
+PUBLIC WORKS,Sewers and Streams,Mason Division,23%,Manholes Sealed/CBs Patched ,336,300,300
+PUBLIC WORKS,Sewers and Streams,Mason Division,23%,New Catch Basins Installed ,3,1,1
+PUBLIC WORKS,Sewers and Streams,Mason Division,23%,Catch Basins Cut Out ,607,500,500
+PUBLIC WORKS,Sewers and Streams,Mason Division,23%,New Stone Tops Fabricated,100,100,100
+PUBLIC WORKS,Sewers and Streams,Mechanical Catch Basin Cleaning,12%,Catch Basins Cleaned ,6230,4000,4000
+PUBLIC WORKS,Sewers and Streams,Mechanical Catch Basin Cleaning,12%,Pick Up Mason Piles ,31,100,300
+PUBLIC WORKS,Sewers and Streams,Mechanical Catch Basin Cleaning,12%,Basin Tops Cleaned,3255,2500,1000
+PUBLIC WORKS,Sewers and Streams,TV Inspections,3%,Sewer Sections Inspected ,151,200,60
+PUBLIC WORKS,Sewers and Streams,TV Inspections,3%,Feet Inspected ,"19,558",30000,12000
+PUBLIC WORKS,Sewers and Streams,TV Inspections,3%,UFPO/Vent Locations ,57,50,50
+PUBLIC WORKS,Sewers and Streams,TV Inspections,3%,Misc Office Days ,62,45,45
+PUBLIC WORKS,Sewers and Streams,TV Inspections,3%,MHs Located & Inspected,49,40,40
+PUBLIC WORKS,Sewers and Streams,TV Inspections,3%,Laterals Located and TV Inspected,32,30,10
+PUBLIC WORKS,Sewers and Streams,Creek Cleaning & Fence Repair,3%,Fence Repaired/Retied (Feet) ,104,100,50
+PUBLIC WORKS,Sewers and Streams,Creek Cleaning & Fence Repair,3%,Creek Rack Hours ,596,600,600
+PUBLIC WORKS,Sewers and Streams,Creek Cleaning & Fence Repair,3%,Shallow Vent Repairs,0,6,50
+PUBLIC WORKS,Sewers and Streams,Locator,5%,DSNY Locations ,"2,673",2000,1500
+PUBLIC WORKS,Sewers and Streams,Locator,5%,Emergency Locations ,635,690,690
+PUBLIC WORKS,Sewers and Streams,Locator,5%,Vent/Lateral Locations,317,275,275
